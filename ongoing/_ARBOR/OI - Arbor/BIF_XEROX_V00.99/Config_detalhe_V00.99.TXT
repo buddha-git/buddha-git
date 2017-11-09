@@ -1,0 +1,1834 @@
+101120100001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+101120200001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+101120300001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+101129010001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+101129010001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+101129010002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+101129010003AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+102410000001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+102510000001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+102610000001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+102710000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+102710000002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+102710000003AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+102810000001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+102899000001NUMERADOR_DETALHADA 306510 9999           LayoutRegistroDetalheFatura        2
+103010100001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+103010100002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+103010100003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+103010100004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+103010100005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+103010100006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        2
+103010100007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+103010100008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        2
+103010100009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+103010200001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+103010200002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+103010200003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+103010200004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+103010200005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+103010200006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        2
+103010200007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+103010200008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        2
+103010200009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+103010300001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+103010300002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+103010300003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+103010300004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+103010300005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+103010300006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        2
+103010300007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+103010300008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        2
+103010300009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+103010400001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+103010400002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+103010400003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+103010400004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+103010400005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+103010400006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        2
+103010400007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+103010400008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        2
+103010400009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+103010600001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+103010600002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+103010600003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+103010600004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+103010600005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+103010600006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        2
+103010600007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+103010600008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        2
+103010600009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+103010700001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+103010700002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+103010700003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+103010700004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+103010700005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+103010700006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        2
+103010700007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+103010700008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        2
+103010700009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+103010800001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+103010800002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+103010800003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+103010800004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+103010800005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+103010800006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        2
+103010800007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+103010800008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        2
+103010800009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+103010901001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+103010901002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+103010901003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+103010901004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+103010901005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+103010901006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        2
+103010901007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+103010901008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        2
+103010901009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+103310100001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+103310100002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+103310100003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+103310100004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+103310100005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+103310100006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        2
+103310100007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+103310100008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        2
+103310100009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+103310200001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+103310200002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+103310200003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+103310200004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+103310200005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+103310200006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        2
+103310200007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+103310200008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        2
+103310200009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+103510100001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+103510100001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+103510100002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+103510100003TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+103510100004HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+103510100005POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+103510100006POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+103510100007POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+103510100008DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+103510100009RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+103510100010AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+103610100001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+103610100001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+103610100002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+103610100003TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+103610100004HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+103610100005POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+103610100006POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+103610100007POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+103610100008DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+103610100009RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+103610100010AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010101001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010101001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010101002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010101003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010101004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010101005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010101006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010101007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010101008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010101009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010101101NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010101101NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010101102TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010101103HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010101104POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010101105POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010101106POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010101107DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010101108RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010101109AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010102001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010102001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010102002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010102003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010102004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010102005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010102006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010102007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010102008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010102009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010102101NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010102101NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010102102TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010102103HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010102104POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010102105POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010102106POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010102107DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010102108RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010102109AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010103001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010103001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010103002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010103003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010103004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010103005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010103006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010103007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010103008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010103009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010103101NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010103101NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010103102TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010103103HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010103104POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010103105POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010103106POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010103107DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010103108RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010103109AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010104101NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010104101NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010104102TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010104103HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010104104POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010104105POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010104106POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010104107DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010104108RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010104109AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010105101NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010105101NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010105102TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010105103HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010105104POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010105105POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010105106POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010105107DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010105108RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010105109AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010200001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010200001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010200002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010200003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010200004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010200005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010200006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010200007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010200008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010200009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010211101NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010211101NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010211102TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010211103HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010211104POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010211105POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010211106POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010211107DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010211108RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010211109AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010212101NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010212101NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010212102TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010212103HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010212104POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010212105POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010212106POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010212107DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010212108RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010212109AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010213101NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010213101NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010213102TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010213103HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010213104POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010213105POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010213106POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010213107DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010213108RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010213109AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010214101NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010214101NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010214102TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010214103HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010214104POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010214105POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010214106POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010214107DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010214108RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010214109AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010300001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010300001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010300002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010300003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010300004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010300005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010300006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010300007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010300008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010300009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010311101NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010311101NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010311102TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010311103HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010311104POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010311105POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010311106POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010311107DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010311108RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010311109AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010312101NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010312101NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010312102TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010312103HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010312104POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010312105POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010312106POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010312107DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010312108RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010312109AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010313101NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010313101NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010313102TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010313103HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010313104POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010313105POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010313106POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010313107DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010313108RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010313109AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010314101NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010314101NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010314102TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010314103HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010314104POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010314105POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010314106POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010314107DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010314108RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010314109AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010401001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010401001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010401002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010401003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010401004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010401005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010401006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010401007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010401008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010401009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010402001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010402001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010402002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010402003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010402004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010402005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010402006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010402007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010402008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010402009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010403001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010403001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010403002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010403003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010403004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010403005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010403006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010403007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010403008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010403009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010404001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010404001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010404002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010404003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010404004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010404005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010404006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010404007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010404008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010404009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010501001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010501001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010501002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010501003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010501004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010501005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010501006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010501007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010501008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010501009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010502001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010502001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010502002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010502003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010502004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010502005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010502006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010502007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010502008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010502009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010503001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010503001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010503002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010503003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010503004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010503005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010503006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010503007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010503008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010503009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010504001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010504001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010504002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010504003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010504004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010504005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010504006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010504007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010504008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010504009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010601001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010601001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010601002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010601003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010601004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010601005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010601006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010601007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010601008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010601009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010602001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010602001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010602002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010602003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010602004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010602005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010602006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010602007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010602008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010602009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010603001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010603001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010603002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010603003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010603004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010603005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010603006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010603007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010603008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010603009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010604001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010604001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010604002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010604003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010604004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010604005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010604006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010604007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010604008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010604009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010701001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010701001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010701002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010701003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010701004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010701005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010701006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010701007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010701008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010701009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010702001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010702001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010702002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010702003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010702004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010702005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010702006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010702007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010702008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010702009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010703001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010703001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010703002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010703003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010703004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010703005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010703006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010703007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010703008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010703009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010704001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010704001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010704002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010704003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010704004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010704005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010704006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010704007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010704008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010704009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010711001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010711001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010711002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010711003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010711004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010711005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010711006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010711007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010711008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010711009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010712001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010712001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010712002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010712003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010712004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010712005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010712006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010712007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010712008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010712009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010713001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010713001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010713002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010713003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010713004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010713005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010713006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010713007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010713008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010713009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010714001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010714001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010714002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010714003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010714004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010714005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010714006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010714007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010714008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010714009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010721001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010721001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010721002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010721003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010721004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010721005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010721006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010721007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010721008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010721009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010722001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010722001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010722002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010722003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010722004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010722005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010722006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010722007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010722008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010722009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010723001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010723001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010723002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010723003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010723004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010723005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010723006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010723007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010723008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010723009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010724001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010724001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010724002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010724003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010724004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010724005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010724006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010724007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010724008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010724009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010801001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010801001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010801002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010801003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010801004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010801005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010801006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010801007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010801008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010801009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010802001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010802001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010802002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010802003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010802004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010802005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010802006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010802007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010802008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010802009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010803001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010803001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010803002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010803003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010803004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010803005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010803006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010803007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010803008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010803009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010804001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010804001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010804002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010804003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010804004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010804005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010804006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010804007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010804008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010804009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010811001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010811001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010811002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010811003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010811004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010811005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010811006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010811007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010811008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010811009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010812001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010812001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010812002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010812003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010812004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010812005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010812006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010812007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010812008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010812009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010813001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010813001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010813002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010813003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010813004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010813005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010813006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010813007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010813008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010813009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010814001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010814001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010814002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010814003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010814004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010814005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010814006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010814007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010814008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010814009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010821001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010821001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010821002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010821003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010821004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010821005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010821006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010821007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010821008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010821009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010822001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010822001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010822002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010822003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010822004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010822005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010822006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010822007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010822008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010822009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010823001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010823001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010823002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010823003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010823004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010823005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010823006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010823007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010823008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010823009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010824001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010824001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010824002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010824003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010824004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010824005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010824006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010824007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010824008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010824009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010831001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010831001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010831002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010831003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010831004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010831005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010831006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010831007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010831008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010831009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010832001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010832001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010832002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010832003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010832004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010832005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010832006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010832007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010832008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010832009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010833001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010833001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010833002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010833003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010833004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010833005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010833006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010833007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010833008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010833009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010834001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010834001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010834002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010834003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010834004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010834005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010834006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010834007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010834008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010834009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010841001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010841001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010841002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010841003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010841004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010841005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010841006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010841007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010841008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010841009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010842001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010842001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010842002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010842003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010842004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010842005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010842006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010842007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010842008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010842009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010843001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010843001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010843002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010843003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010843004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010843005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010843006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010843007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010843008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010843009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010844001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010844001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010844002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010844003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010844004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010844005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010844006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010844007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010844008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010844009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010851001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010851001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010851002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010851003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010851004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010851005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010851006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010851007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010851008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010851009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010852001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010852001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010852002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010852003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010852004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010852005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010852006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010852007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010852008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010852009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010853001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010853001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010853002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010853003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010853004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010853005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010853006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010853007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010853008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010853009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010854001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010854001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010854002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010854003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010854004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010854005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010854006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010854007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010854008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010854009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010861001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010861001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010861002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010861003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010861004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010861005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010861006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010861007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010861008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010861009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010862001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010862001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010862002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010862003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010862004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010862005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010862006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010862007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010862008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010862009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010863001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010863001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010863002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010863003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010863004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010863005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010863006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010863007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010863008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010863009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010864001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010864001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010864002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010864003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010864004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010864005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010864006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010864007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010864008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010864009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010871001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010871001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010871002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010871003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010871004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010871005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010871006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010871007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010871008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010871009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010872001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010872001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010872002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010872003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010872004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010872005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010872006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010872007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010872008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010872009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010873001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010873001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010873002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010873003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010873004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010873005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010873006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010873007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010873008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010873009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010874001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010874001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010874002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104010874003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104010874004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104010874005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104010874006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104010874007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104010874008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104010874009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104010901101NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104010901101NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104010901102TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+104010901103HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+104010901104POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+104010901105POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+104010901106POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        2
+104010901107DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+104010901108RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        2
+104010901109AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+104510100001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104510100001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104510100002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104510100003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104510100004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104510100005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104510100006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104510100007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104510100008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104510100009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104510200001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104510200001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104510200002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104510200003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104510200004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104510200005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104510200006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104510200007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104510200008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104510200009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104510300001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104510300001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104510300002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104510300003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104510300004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104510300005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104510300006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104510300007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104510300008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104510300009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104510400001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104510400001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104510400002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104510400003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104510400004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104510400005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104510400006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104510400007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104510400008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104510400009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104510500001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104510500001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104510500002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104510500003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104510500004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+104510500005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104510500006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104510500007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104510500008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104510500009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104610100001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104610100001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104610100002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104610100003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104610100004102                     24 F102           LayoutRegistroDetalheFatura        3
+104610100005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+104610100006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+104610100007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+104610100008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+104610100009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104610200001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104610200001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104610200002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104610200003TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104610200004HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104610200005AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104620000001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104620000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104620000002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104620000003TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104620000004HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+104620000005AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+104710000001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+104710000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+104710000002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104710000003TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+104710000004AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+105010100001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+105010100001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+105010100002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+105010100003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+105010100004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+105010100005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+105010100006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+105010100007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+105010100008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+105010100009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+105010200001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+105010200001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+105010200002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+105010200003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+105010200004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+105010200005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+105010200006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+105010200007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+105010200008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+105010200009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+106010101001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106010101002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106010101003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106010101004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106010101005AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106010102001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106010102002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106010102003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106010102004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106010102005AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106010103001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106010103002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106010103003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106010103004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106010103005AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106010104001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106010104002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106010104003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106010104004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106010104005AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106010104501NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106010104502TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106010104503HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106010104504POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106010104505AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106010105001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106010105002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106010105003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106010105004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106010105005AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106010105501NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106010105502TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106010105503HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106010105504POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106010105505AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106010106001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106010106002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106010106003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106010106004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106010106005AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106010107001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106010107002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106010107003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106010107004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106010107005AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106010108001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106010108002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106010108003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106010108004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106010108005AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106010109001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106010109002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106010109003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106010109004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106010109005AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106010109301NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106010109302TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106010109303HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106010109304POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106010109305AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106010109501NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106010109502TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106010109503HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106010109504POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106010109505AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106010109601NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106010109602TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106010109603HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106010109604POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106010109605AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106010109701NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106010109702TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106010109703HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106010109704POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106010109705AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106010109801NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106010109802TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106010109803HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106010109804POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106010109805AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106010109901NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106010109902TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106010109903HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106010109904POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106010109905AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106010201001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106010201002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106010201003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106010201004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106010201005AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106010206001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106010206002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106010206003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106010206004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106010206005AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106010209001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106010209002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106010209003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106010209004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106010209005AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106010301001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106010301002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106010301003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106010301004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106010301005AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106010306001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106010306002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106010306003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106010306004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106010306005AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106010309001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106010309002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106010309003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106010309004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106010309005AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106020101001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106020101002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106020101003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106020101004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106020101005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+106020101006DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020101007VOLUME_CHAR         305419 NULL           LayoutRegistroDetalheFatura        2
+106020101008ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020101009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106020102001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106020102002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106020102003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106020102004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106020102005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+106020102006DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020102007ANNOTATION_ADJ      3055255NULL           LayoutRegistroDetalheFatura        2
+106020102008ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020102009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106020103001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106020103002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106020103003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106020103004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106020103005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+106020103006ANNOTATION_ADJ      3055255NULL           LayoutRegistroDetalheFatura        2
+106020103007VOLUME_CHAR         305419 NULL           LayoutRegistroDetalheFatura        2
+106020103008ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020103009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106020104001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106020104002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106020104003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106020104004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106020104005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+106020104006DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020104007ANNOTATION_ADJ      3055255NULL           LayoutRegistroDetalheFatura        2
+106020104008ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020104009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106020201001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106020201002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106020201003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106020201004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106020201005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+106020201006DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020201007VOLUME_CHAR         305419 NULL           LayoutRegistroDetalheFatura        2
+106020201008ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020201009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106020202001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106020202002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106020202003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106020202004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106020202005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+106020202006DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020202007VOLUME_CHAR         305419 NULL           LayoutRegistroDetalheFatura        2
+106020202008ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020202009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106020203001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106020203002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106020203003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106020203004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106020203005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+106020203006ANNOTATION_ADJ      3055255NULL           LayoutRegistroDetalheFatura        2
+106020203007VOLUME_CHAR         305419 NULL           LayoutRegistroDetalheFatura        2
+106020203008ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020203009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106020204001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106020204002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106020204003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106020204004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106020204005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+106020204006DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020204007VOLUME_CHAR         305419 NULL           LayoutRegistroDetalheFatura        2
+106020204008ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020204009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106020301001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106020301002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106020301003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106020301004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106020301005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+106020301006DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020301007VOLUME_CHAR         305419 NULL           LayoutRegistroDetalheFatura        2
+106020301008ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020301009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106020302001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106020302002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106020302003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106020302004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106020302005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+106020302006DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020302007VOLUME_CHAR         305419 NULL           LayoutRegistroDetalheFatura        2
+106020302008ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020302009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106020303001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106020303002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106020303003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106020303004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106020303005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+106020303006ANNOTATION_ADJ      3055255NULL           LayoutRegistroDetalheFatura        2
+106020303007VOLUME_CHAR         305419 NULL           LayoutRegistroDetalheFatura        2
+106020303008ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020303009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106020304001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106020304002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106020304003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106020304004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106020304005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+106020304006DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020304007VOLUME_CHAR         305419 NULL           LayoutRegistroDetalheFatura        2
+106020304008ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020304009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106020401001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106020401002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106020401003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106020401004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106020401005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+106020401006DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020401007VOLUME_CHAR         305419 NULL           LayoutRegistroDetalheFatura        2
+106020401008ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020401009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106020402001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106020402002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106020402003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106020402004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106020402005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+106020402006DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020402007VOLUME_CHAR         305419 NULL           LayoutRegistroDetalheFatura        2
+106020402008ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020402009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106020403001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106020403002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106020403003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106020403004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106020403005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+106020403006ANNOTATION_ADJ      3055255NULL           LayoutRegistroDetalheFatura        2
+106020403007VOLUME_CHAR         305419 NULL           LayoutRegistroDetalheFatura        2
+106020403008ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020403009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+106020404001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+106020404002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+106020404003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+106020404004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+106020404005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+106020404006DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020404007VOLUME_CHAR         305419 NULL           LayoutRegistroDetalheFatura        2
+106020404008ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        2
+106020404009AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+107010000001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+107010000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+107010000002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+107010000003TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+107010000004AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+108010100001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+108010100001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+108010100002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+108010100003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+108010100004ANNOTATION_ADJ      3055255NULL           LayoutRegistroDetalheFatura        3
+108010100005POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+108010100006POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+108010100007POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+108010100008DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+108010100009RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+108010100010AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+108010200001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+108010200001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+108010200002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+108010200003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+108010200004ANNOTATION_ADJ      3055255NULL           LayoutRegistroDetalheFatura        3
+108010200005DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+108010200006AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+108020000001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+108020000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+108020000002ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        3
+108510000001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+108510000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+108510000002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+108510000003AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+109010000001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+109010000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+109010000002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+109010000003AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+109500000001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+109500000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+109500000002ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        3
+110000000001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+110000000002AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+130000000001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+130000000002AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+141010100001DESCRIPTION         700180 NULL           LayoutDetalheDemonstativo          3
+141010100002AMOUNT_CHAR         700253 9999999.99     LayoutDetalheDemonstativo          3
+141010200001DESCRIPTION         700180 NULL           LayoutDetalheDemonstativo          3
+141010200002AMOUNT_CHAR         700253 9999999.99     LayoutDetalheDemonstativo          3
+141020000001DESCRIPTION         700180 NULL           LayoutDetalheDemonstativo          3
+141020000002AMOUNT_CHAR         700253 9999999.99     LayoutDetalheDemonstativo          3
+141030000001DESCRIPTION         700180 NULL           LayoutDetalheDemonstativo          3
+141030000002AMOUNT_CHAR         700253 9999999.99     LayoutDetalheDemonstativo          3
+141040000001DESCRIPTION         700180 NULL           LayoutDetalheDemonstativo          3
+141040000002AMOUNT_CHAR         700253 9999999.99     LayoutDetalheDemonstativo          3
+142000000001DESCRIPTION         600180 NULL           LayoutRegistroDetalheResumoTributos3
+142000000002AMOUNT_CHAR_1       600320 9.999.999,99[%]LayoutRegistroDetalheResumoTributos3
+151010100001DESCRIPTION         700180 NULL           LayoutDetalheDemonstativo          3
+151010100002AMOUNT_CHAR         700253 9999999.99     LayoutDetalheDemonstativo          3
+151020000001DESCRIPTION         700180 NULL           LayoutDetalheDemonstativo          3
+151020000002AMOUNT_CHAR         700253 9999999.99     LayoutDetalheDemonstativo          3
+151030000001DESCRIPTION         700180 NULL           LayoutDetalheDemonstativo          3
+151030000002AMOUNT_CHAR         700253 9999999.99     LayoutDetalheDemonstativo          3
+151040000001DESCRIPTION         700180 NULL           LayoutDetalheDemonstativo          3
+151040000002AMOUNT_CHAR         700253 9999999.99     LayoutDetalheDemonstativo          3
+152000000001DESCRIPTION         600180 NULL           LayoutRegistroDetalheResumoTributos3
+152000000002AMOUNT_CHAR_1       600320 9.999.999,99[%]LayoutRegistroDetalheResumoTributos3
+161205500001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+161205500001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+161205500002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+161205500003AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+161210000001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+161220000001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+161220000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+161220000002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+161220000003AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+161230000001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+161231000001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+161232000001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+161233000001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+161234000001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+161235000001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+161236000001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+161237000001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+161238000001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+161240000001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+161241000001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+161242000001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+161243000001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+171000000001DESCRIPTION         700180 NULL           LayoutDetalheDemonstativo          3
+171000000002AMOUNT_CHAR         700253 9999999.99     LayoutDetalheDemonstativo          3
+172000000001DESCRIPTION         700180 NULL           LayoutDetalheDemonstativo          3
+172000000002AMOUNT_CHAR         700253 9999999.99     LayoutDetalheDemonstativo          3
+181000000001DESCRIPTION         700180 NULL           LayoutDetalheDemonstativo          3
+181000000002AMOUNT_CHAR         700253 9999999.99     LayoutDetalheDemonstativo          3
+201000000001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+201000000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+201000000002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+201000000003AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+211000000001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+211000000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+211000000002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+211000000003DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+211000000004ANNOTATION_ADJ      3055255NULL           LayoutRegistroDetalheFatura        3
+211000000005AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+221000000001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+221000000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+221000000002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+221000000003TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+221000000004AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+231000000001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+231000000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+231000000002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+231000000003TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+231000000004AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+241010000001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+241010000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+241010000002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+241010000003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+241010000004ANNOTATION_ADJ      3055255NULL           LayoutRegistroDetalheFatura        3
+241010000005DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+241010000006AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+242000000001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+242000000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+242000000002ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        3
+251000000001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+251000000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+251000000002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+251000000003AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+261000000001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+261000000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+261000000002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+261000000003AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+301000000001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+301000000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+301000000002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+301000000003DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+301000000004ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        3
+301000000005AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+401000000001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+401000000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+401000000002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+401000000003DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+401000000004SHORT_DESCRIPTION   30165  NULL           LayoutRegistroDetalheFatura        3
+401000000005ANNOTATION_ADJ      3055255NULL           LayoutRegistroDetalheFatura        3
+401000000006AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+501000000001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+501000000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+501000000002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+501000000003DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+501000000004ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        3
+501000000005AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+601000000001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+601000000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+601000000002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+601000000003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+601000000004DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+601000000005ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        3
+601000000006AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+700500000001COD_FLAT            30685                 LayoutRegistroDetalheFatura        3
+700500000002DESC_FRANQUIA       306712                LayoutRegistroDetalheFatura        3
+701005100001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+701010100001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+703010101001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+703010101002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+703010101003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+703010101004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+703010101005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+703010101006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        2
+703010101007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+703010101008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        2
+703010101009DESC_FRANQUIA       306712                LayoutRegistroDetalheFatura        2
+703010101010UNITS_CREDITED_FIXA 30698                 LayoutRegistroDetalheFatura        2
+703010101011AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+703010102001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+703010102002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+703010102003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+703010102004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+703010102005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+703010102006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        2
+703010102007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+703010102008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        2
+703010102009DESC_FRANQUIA       306712                LayoutRegistroDetalheFatura        2
+703010102010UNITS_CREDITED_FIXA 30698                 LayoutRegistroDetalheFatura        2
+703010102011AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+703010201001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+703010201002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+703010201003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+703010201004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+703010201005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+703010201006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        2
+703010201007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+703010201008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        2
+703010201009COD_FLAT            30685                 LayoutRegistroDetalheFatura        2
+703010201010AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+703010202001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+703010202002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        2
+703010202003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        2
+703010202004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        2
+703010202005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        2
+703010202006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        2
+703010202007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        2
+703010202008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        2
+703010202009COD_FLAT            30685                 LayoutRegistroDetalheFatura        2
+703010202010AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        2
+704010100001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+704010100002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+704010100003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+704010100004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+704010100005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+704010100006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+704010100007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+704010100008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+704010100009COD_FLAT            30685                 LayoutRegistroDetalheFatura        3
+704010100010AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+704010200001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+704010200002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+704010200003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+704010200004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+704010200005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+704010200006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+704010200007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+704010200008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+704010200009COD_FLAT            30685                 LayoutRegistroDetalheFatura        3
+704010200010AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+705010100001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+705010100002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+705010100003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+705010100004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+705010100005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+705010100006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+705010100007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+705010100008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+705010100009COD_FLAT            30685                 LayoutRegistroDetalheFatura        3
+705010100010AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+705010200001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+705010200002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+705010200003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+705010200004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+705010200005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+705010200006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+705010200007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+705010200008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+705010200009COD_FLAT            30685                 LayoutRegistroDetalheFatura        3
+705010200010AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+705010300001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+705010300002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+705010300003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+705010300004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+705010300005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+705010300006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+705010300007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+705010300008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+705010300009COD_FLAT            30685                 LayoutRegistroDetalheFatura        3
+705010300010AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+705010400001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+705010400002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+705010400003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+705010400004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+705010400005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+705010400006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+705010400007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+705010400008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+705010400009COD_FLAT            30685                 LayoutRegistroDetalheFatura        3
+705010400010AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+705010500001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+705010500002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+705010500003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+705010500004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+705010500005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+705010500006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+705010500007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+705010500008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+705010500009COD_FLAT            30685                 LayoutRegistroDetalheFatura        3
+705010500010AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+705010600001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+705010600002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+705010600003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+705010600004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+705010600005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+705010600006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+705010600007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+705010600008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+705010600009COD_FLAT            30685                 LayoutRegistroDetalheFatura        3
+705010600010AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+706010101001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+706010101002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+706010101003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+706010101004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+706010101005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+706010101006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+706010101007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+706010101008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+706010101009COD_FLAT            30685                 LayoutRegistroDetalheFatura        3
+706010101010AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+706010201001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+706010201002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+706010201003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+706010201004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+706010201005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+706010201006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+706010201007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+706010201008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+706010201009COD_FLAT            30685                 LayoutRegistroDetalheFatura        3
+706010201010AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+706010301001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+706010301002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+706010301003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+706010301004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+706010301005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+706010301006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+706010301007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+706010301008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+706010301009COD_FLAT            30685                 LayoutRegistroDetalheFatura        3
+706010301010AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+706010401001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+706010401002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+706010401003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+706010401004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+706010401005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+706010401006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+706010401007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+706010401008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+706010401009COD_FLAT            30685                 LayoutRegistroDetalheFatura        3
+706010401010AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+706010501001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+706010501002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+706010501003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+706010501004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+706010501005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+706010501006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+706010501007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+706010501008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+706010501009COD_FLAT            30685                 LayoutRegistroDetalheFatura        3
+706010501010AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+706010601001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+706010601002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+706010601003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+706010601004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+706010601005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+706010601006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+706010601007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+706010601008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+706010601009COD_FLAT            30685                 LayoutRegistroDetalheFatura        3
+706010601010AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+706010701001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+706010701002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+706010701003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+706010701004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+706010701005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+706010701006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+706010701007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+706010701008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+706010701009COD_FLAT            30685                 LayoutRegistroDetalheFatura        3
+706010701010AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+706010801001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+706010801002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+706010801003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+706010801004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+706010801005POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+706010801006POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+706010801007DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+706010801008RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+706010801009COD_FLAT            30685                 LayoutRegistroDetalheFatura        3
+706010801010AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+707010000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+707010000002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+707010000003TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+707010000004HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+707010000005POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+707010000006POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+707010000007POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+707010000008DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+707010000009RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+707010000010AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+707010100001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+707010100002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+707010100003TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+707010100004HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+707010100005POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+707010100006POINT_CLASS_CELL    303180 NULL           LayoutRegistroDetalheFatura        3
+707010100007POINT_CLASS_TARGET  303580 NULL           LayoutRegistroDetalheFatura        3
+707010100008DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+707010100009RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+707010100010COD_FLAT            30685                 LayoutRegistroDetalheFatura        3
+707010100011AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+708010000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+708010000002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+708010000003TO_DATE             302610 NULL           LayoutRegistroDetalheFatura        3
+708010000004AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+708010100001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+708010100002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+708010100003TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+708010100004COD_FLAT            30685                 LayoutRegistroDetalheFatura        3
+708010100005AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+709010100001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+709010100002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+709010100003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+709010100004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+709010100005DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+709010100006RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+709010100007COD_FLAT            30685                 LayoutRegistroDetalheFatura        3
+709010100008AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+709010150001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+709010150002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+709010150003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+709010150004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+709010150005DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+709010150006RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+709010150007COD_FLAT            30685                 LayoutRegistroDetalheFatura        3
+709010150008AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+709010200001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+709010200002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+709010200003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+709010200004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+709010200005DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+709010200006RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+709010200007COD_FLAT            30685                 LayoutRegistroDetalheFatura        3
+709010200008AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+709010250001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+709010250002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+709010250003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+709010250004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+709010250005DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+709010250006RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+709010250007COD_FLAT            30685                 LayoutRegistroDetalheFatura        3
+709010250008AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+709010300001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+709010300002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+709010300003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+709010300004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+709010300005DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+709010300006RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+709010300007COD_FLAT            30685                 LayoutRegistroDetalheFatura        3
+709010300008AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+709010350001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+709010350002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+709010350003HORA_CHAR           30288  NULL           LayoutRegistroDetalheFatura        3
+709010350004POINT_TARGET        303224 NULL           LayoutRegistroDetalheFatura        3
+709010350005DURACAO_CHAR        305320 HH:MI:SS       LayoutRegistroDetalheFatura        3
+709010350006RATE_PERIOD_DISPLAY 305180 NULL           LayoutRegistroDetalheFatura        3
+709010350007COD_FLAT            30685                 LayoutRegistroDetalheFatura        3
+709010350008AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+709110000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+709110000002ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        3
+709110000003AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+709210000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+709210000002ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        3
+709310000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+709310000002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+709310000003TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+709310000004AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+710000000001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+710000000002AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+721000000001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+730000000001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+730000000002AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+741010000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+741010000002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+741010000003AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+742010000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+742010000002ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        3
+743010000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+743010000002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+743010000003AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+744010000001NUMERADOR_SUMARIZADA300210 9999           LayoutRegistroDetalheFatura        1
+744010000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        2
+744010000002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+744010000003AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+751000000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+751000000002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+751000000003TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+751000000004AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+761000000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+761000000002DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+761000000003AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+771000000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+771000000002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+771000000003DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+771000000004ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        3
+771000000005AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+781000000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+781000000002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+781000000003DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+781000000004SHORT_DESCRIPTION   30165  NULL           LayoutRegistroDetalheFatura        3
+781000000005ANNOTATION_ADJ      3055255NULL           LayoutRegistroDetalheFatura        3
+781000000006AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+791000000001NUMERADOR_DETALHADA 300110 9999           LayoutRegistroDetalheFatura        3
+791000000002TRANS_DATE          302710 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+791000000003DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+791000000004ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        3
+791000000005AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+800000000001DESCRIPTION         301580 DD/MM/YYYY     LayoutRegistroDetalheFatura        3
+800000000002AMOUNT_CHAR         305219 9999999.99     LayoutRegistroDetalheFatura        3
+981110000001ULTIMO_PGTO         400120 9999999.99     LayoutRegistroDetalheMulticonta    3
+981110000002SALDO_DEVEDOR       400220 9999999.99     LayoutRegistroDetalheMulticonta    3
+981110000003VALOR_FATURA        400320 9999999.99     LayoutRegistroDetalheMulticonta    3
+981110000004TOTAL_PAGAR         400420 9999999.99     LayoutRegistroDetalheMulticonta    3
+981200000001DESCRIPTION         4008150NULL           LayoutRegistroDetalheMulticonta    3
+981200000002AMOUNT              400920 9999999.99     LayoutRegistroDetalheMulticonta    3
+981310000001DESCRIPTION         4008150NULL           LayoutRegistroDetalheMulticonta    3
+981310000002AMOUNT              400920 9999999.99     LayoutRegistroDetalheMulticonta    3
+991010100001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010100002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010100003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010150001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010150002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010150003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010160001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010160002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010160003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010200001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010200002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010200003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010210001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010210002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010210003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010240001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010240002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010240003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010250001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010250002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010250003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010280001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010280002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010280003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010300001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010300002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010300003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010310001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010310002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010310003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010320001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010320002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010320003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010330001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010330002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010330003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010340001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010340002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010340003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010350001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010350002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010350003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010360001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010360002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010360003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010400001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010400002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010400003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010500001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010500002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010500003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010600001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010600002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010600003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010610001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010610002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010610003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010700001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010700002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010700003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010710001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010710002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010710003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010750001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010750002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010750003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010770001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010770002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010770003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010900001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010900002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010900003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010910001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010910002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010910003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010920001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010920002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010920003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010930001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010930002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010930003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010940001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010940002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010940003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991010950001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991010950002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991010950003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+991080000001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+991080000002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+991080000003TAX_RATE_CHAR       50038  0.9999         LayoutRegistroDetalheNotaFiscal    3
+994000000001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+994000000002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+995000000001DESCRIPTION         500180 NULL           LayoutRegistroDetalheNotaFiscal    3
+995000000002TOTAL_AMOUNT_CHAR   500220 9999999.99     LayoutRegistroDetalheNotaFiscal    3
+998000000001ANNOTATION          3029255HH:MI:SS       LayoutRegistroDetalheFatura        3
+999010000001DESCRIPTION         600180 NULL           LayoutRegistroDetalheResumoTributos3
+999010000002AMOUNT_CHAR_1       600320 9.999.999,99[%]LayoutRegistroDetalheResumoTributos3
+999010000003AMOUNT_CHAR_2       600420 9.999.999,99[%]LayoutRegistroDetalheResumoTributos3
+999010000004AMOUNT_CHAR_3       600520 9.999.999,99[%]LayoutRegistroDetalheResumoTributos3
+999010000005AMOUNT_CHAR_4       600620 9.999.999,99[%]LayoutRegistroDetalheResumoTributos3
+999010000006AMOUNT_CHAR_5       600720 9.999.999,99[%]LayoutRegistroDetalheResumoTributos3
+999010000007AMOUNT_CHAR_6       600820 9999999.99     LayoutRegistroDetalheResumoTributos3
+999020000001HASHCODE            910160 NULL           LayoutRegistroDetalheHashCode      3

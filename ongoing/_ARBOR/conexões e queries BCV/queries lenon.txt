@@ -1,0 +1,39 @@
+select --/* INDEX */
+    --cdrb.cdr_data_partition_key, 
+    --cdrb.subscr_no,
+    cdrb.bill_ref_no, 
+    cdrb.point_origin,
+    cdrb.POINT_TARGET,
+    --custid.view_id,
+    --custid.external_id, 
+    --cdrb.trans_dt,
+    TO_CHAR(cdrb.trans_dt, 'yyyy-mm-dd hh:mm:ss') as DT_CHAMADA,
+    cdrb.BILLED_AMOUNT,
+    cdrb.BILLED_UNROUNDED_AMOUNT,
+    cdrb.BILLED_BASE_AMT,
+    cdrb.AMOUNT_CREDITED,
+    cdrb.DISCOUNT,
+    cdrb.UNIT_CR_ID,
+    cdrb.TYPE_ID_USG,
+    bi.payment_due_date,
+    bi.statement_date--,
+    --bi.tax_date,
+    --bi.prep_date,
+    --bi.from_date,
+    --bi.to_date,
+    --bi.next_to_date
+from 
+    bill_invoice bi,
+    cdr_billed partition (cdr_billed_p8) cdrb--,
+    --customer_id_equip_map custid
+where 
+    cdrb.bill_ref_no = bi.bill_ref_no
+    AND cdrb.bill_ref_resets = bi.bill_ref_resets
+    --and cdrb.SUBSCR_NO = custid.SUBSCR_NO
+    --and cdrb.subscr_no_resets = custid.SUBSCR_NO_RESETS
+    --and custid.INACTIVE_DATE is null
+    and cdrb.trans_dt > '14/09/2016'
+    and cdrb.trans_dt < '15/09/2016'
+    and TO_CHAR(cdrb.trans_dt, 'yyyy-mm-dd hh:mm:ss') > '2016-09-14 09:00:00' 
+    AND TO_CHAR(cdrb.trans_dt, 'yyyy-mm-dd hh:mm:ss') < '2016-09-14 12:00:00'
+    and rownum <10

@@ -1,0 +1,29 @@
+select /* INDEX */
+    --cdrb.cdr_data_partition_key,
+    --cdr.cdr_data_partition_key,
+    --cdrb.subscr_no,
+    cdrb.bill_ref_no as IDENT_BILL_INVOICE, 
+    cdrb.point_origin,
+    cdrb.point_target,
+    cdr.raw_units as DUR_EVENT,
+    cdrb.billed_amount as Tot_rated,
+    cdrb.billed_base_amt as tot_rated_puro,
+    TO_CHAR(cdrb.trans_dt, 'yyyy-mm-dd hh:mm:ss') as DT_CHAMADA,
+    bi.payment_due_date,
+    bi.statement_date
+from 
+    bill_invoice bi,
+    cdr_billed partition (cdr_billed_p9) cdrb,
+    cdr_data cdr
+where 
+    cdrb.trans_dt > '14/09/2016'
+    and cdrb.trans_dt < '15/09/2016'
+    AND cdrb.bill_ref_no = bi.bill_ref_no
+    AND cdrb.bill_ref_resets = bi.bill_ref_resets
+    AND cdrb.cdr_data_partition_key = cdr.cdr_data_partition_key
+    AND cdrb.msg_id = cdr.msg_id
+    AND cdrb.msg_id2 = cdr.msg_id2
+    AND cdrb.msg_id_serv = cdr.msg_id_serv
+    AND cdrb.split_row_num = cdr.split_row_num
+    and TO_CHAR(cdrb.trans_dt, 'yyyy-mm-dd hh:mm:ss') > '2016-09-14 09:00:00' 
+    AND TO_CHAR(cdrb.trans_dt, 'yyyy-mm-dd hh:mm:ss') < '2016-09-14 12:00:00'

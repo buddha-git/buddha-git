@@ -1,0 +1,24 @@
+select
+    cdrb.bill_ref_no, 
+    cdrb.point_origin,
+    cdrb.point_target,
+    cdrd.raw_units,
+    cdrb.billed_amount,
+    cdrb.billed_base_amt,
+    TO_CHAR(cdrb.trans_dt, 'yyyy-mm-dd hh:mm:ss'),
+    bi.payment_due_date,
+    bi.statement_date
+from 
+    bill_invoice bi,
+    cdr_billed partition (cdr_billed_p9) cdrb,
+    cdr_data cdrd
+where 
+    cdrb.bill_ref_no = bi.bill_ref_no
+    AND cdrb.bill_ref_resets = bi.bill_ref_resets
+    AND cdrb.cdr_data_partition_key = cdrd.cdr_data_partition_key
+    AND cdrb.msg_id = cdrd.msg_id
+    AND cdrb.msg_id2 = cdrd.msg_id2
+    AND cdrb.msg_id_serv = cdrd.msg_id_serv
+    AND cdrb.split_row_num = cdrd.split_row_num
+    and TO_CHAR(cdrb.trans_dt, 'yyyy-mm-dd hh:mm:ss') > '2016-09-14 09:00:00' 
+    AND TO_CHAR(cdrb.trans_dt, 'yyyy-mm-dd hh:mm:ss') < '2016-09-14 12:00:00'

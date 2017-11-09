@@ -1,0 +1,799 @@
+101120000001Seu Plano Oi                                                                                    3
+101120100001Período:                                                                                        3
+101120100002FROM_DATE                                                                       100410DD/MM     3
+101120100003a                                                                                               3
+101120100004TO_DATE                                                                         100510DD/MM     3
+101120100005PACKAGE_DISPLAY                                                                 100380NULL      3
+101120200001Período:                                                                                        3
+101120200002FROM_DATE                                                                       100410DD/MM     3
+101120200003a                                                                                               3
+101120200004TO_DATE                                                                         100510DD/MM     3
+101120200005PACKAGE_DISPLAY                                                                 100380NULL      3
+101120300001Período:                                                                                        3
+101120300002FROM_DATE                                                                       100410DD/MM     3
+101120300003A                                                                                               3
+101120300004TO_DATE                                                                         100510DD/MM     3
+101120300005PACKAGE_DISPLAY                                                                 100380NULL      3
+101129000001Benefício pra toda vida Oi                                                                      3
+101129010001Descrição                                                                                       3
+101129010002Valor(R$)                                                                                       3
+102400000001Assinatura Módulo Intra-Grupo                                                                   3
+102410000001Período:                                                                                        3
+102410000002FROM_DATE                                                                       100410DD/MM     3
+102410000003a                                                                                               3
+102410000004TO_DATE                                                                         100510DD/MM     3
+102410000005PACKAGE_DISPLAY                                                                 100380NULL      3
+102500000001Seu Plano Oi Controle                                                                           3
+102510000001PACKAGE_DISPLAY                                                                 102580NULL      3
+102520000001Período:                                                                                        3
+102520000002FROM_DATE                                                                       100410DD/MM     3
+102520000003a                                                                                               3
+102520000004TO_DATE                                                                         100510DD/MM     3
+102520000005PACKAGE_DISPLAY                                                                 100380NULL      3
+102600000001Seu Plano Oi Controle                                                                           3
+102610000001Período:                                                                                        3
+102610000002FROM_DATE                                                                       100410DD/MM     3
+102610000003a                                                                                               3
+102610000004TO_DATE                                                                         100510DD/MM     3
+102610000005PACKAGE_DISPLAY                                                                 100380NULL      3
+102700000001Prêmios Programa de Relacionamento                                                              3
+102710000001Descrição                                                                                       3
+102710000002Valor (R$)                                                                                      3
+102800000001Seu Plano Oi Controle Total                                                                     3
+102810000001Período:                                                                                        3
+102810000002FROM_DATE                                                                       100410DD/MM     3
+102810000003a                                                                                               3
+102810000004TO_DATE                                                                         100510DD/MM     3
+102810000005PACKAGE_DISPLAY                                                                 100380NULL      3
+103000000001Ligações Locais                                                                                 3
+103010000001Data                                                                                            2
+103010000002Hora                                                                                            2
+103010000003Telefone                                                                                        2
+103010000004Origem                                                                                          2
+103010000005Destino                                                                                         2
+103010000006Duração                                                                                         2
+103010000007Horário                                                                                         2
+103010000008Valor (R$)                                                                                      2
+103010100001Ligações de Oi para Oi                                                                          3
+103010200001Ligações de Oi para Fixo                                                                        3
+103010300001Ligações de Oi para outros celulares                                                            3
+103010400001Ligações recebidas a cobrar                                                                     3
+103010600001AD (Adicional por cham.) e ligações locais na rede de outras operadoras                         2
+103010700001Serviços Especiais de Voz                                                                       2
+103010800001AD (Adicional por cham.) e ligações locais na rede da Brasil Telecom                            2
+103010900001Ligações Locais originadas no fixo indicado:                                                    3
+103010900002PACKAGE_DISPLAY                                                                 102420NULL      3
+103010901001Ligações de Fixo para Oi e outros celulares                                                     3
+103300000001Ligações Locais Oi Empresa +                                                                    3
+103310000001Data                                                                                            2
+103310000002Hora                                                                                            2
+103310000003Telefone                                                                                        2
+103310000004Origem                                                                                          2
+103310000005Destino                                                                                         2
+103310000006Duração                                                                                         2
+103310000007Horário                                                                                         2
+103310000008Valor (R$)                                                                                      2
+103310100001Ligações de Oi para Oi                                                                          2
+103310200001Ligações de Oi para Fixo                                                                        2
+103500000001Ligações para Números Especiais Oi                                                              3
+103510000001Descrição                                                                                       3
+103510000002Data                                                                                            3
+103510000003Hora                                                                                            3
+103510000004Telefone                                                                                        3
+103510000005Origem                                                                                          3
+103510000006Destino                                                                                         3
+103510000007Duração                                                                                         3
+103510000008Horário                                                                                         3
+103510000009Valor (R$)                                                                                      3
+103600000001Ligações para Números Especiais de outras operadoras                                            3
+103610000001Descrição                                                                                       3
+103610000002Data                                                                                            3
+103610000003Hora                                                                                            3
+103610000004Telefone                                                                                        3
+103610000005Origem                                                                                          3
+103610000006Destino                                                                                         3
+103610000007Duração                                                                                         3
+103610000008Horário                                                                                         3
+103610000009Valor (R$)                                                                                      3
+104000000001Ligações de Longa Distância de outras operadoras                                                3
+104010000001Data                                                                                            3
+104010000002Hora                                                                                            3
+104010000003Telefone                                                                                        3
+104010000004Origem                                                                                          3
+104010000005Destino                                                                                         3
+104010000006Duração                                                                                         3
+104010000007Horário                                                                                         3
+104010000008Valor (R$)                                                                                      3
+104010100001Ligações de longa distância com a Oi                                                            3
+104010101001Ligações que você fez dentro da área Oi                                                         3
+104010101101Ligações que você fez                                                                           3
+104010102001Ligações que você recebeu em viagens                                                            3
+104010102101Ligações que você recebeu em viagens nacionais                                                  3
+104010103001Ligações que você fez fora da área Oi                                                           3
+104010103101Ligações que voce recebeu a cobrar                                                              3
+104010104101Ligações Internacionais feitas no Brasil e ligações recebidas no exterior                       3
+104010105101Ligações Internacionais feitas no Brasil para países da promoção DDI 31 Amigo                   3
+104010200001Ligações usando o 23 da Intelig                                                                 3
+104010210001Ligações usando a Intelig                                                                       3
+104010211101Ligações que você fez                                                                           3
+104010212101Ligações que você recebeu em viagens nacionais                                                  3
+104010213101Ligações que voce recebeu a cobrar                                                              3
+104010214101Ligações Internacionais feitas no Brasil e ligações recebidas no exterior                       3
+104010300001Ligações usando o 21 da Embratel                                                                3
+104010310001Ligações usando a Embratel                                                                      3
+104010311101Ligações que você fez                                                                           3
+104010312101Ligações que você recebeu em viagens nacionais                                                  3
+104010313101Ligações que voce recebeu a cobrar                                                              3
+104010314101Ligações Internacionais feitas no Brasil e ligações recebidas no exterior                       3
+104010400001Ligações usando a CTBC                                                                          3
+104010401001Ligações que você fez                                                                           3
+104010402001Ligações que você recebeu em viagens nacionais                                                  3
+104010403001Ligações que voce recebeu a cobrar                                                              3
+104010404001Ligações Internacionais feitas no Brasil e ligações recebidas no exterior                       3
+104010500001Ligações usando a Claro                                                                         3
+104010501001Ligações que você fez                                                                           3
+104010502001Ligações que você recebeu em viagens nacionais                                                  3
+104010503001Ligações que voce recebeu a cobrar                                                              3
+104010504001Ligações Internacionais feitas no Brasil e ligações recebidas no exterior                       3
+104010600001Ligações usando a Vésper                                                                        3
+104010601001Ligações que você fez                                                                           3
+104010602001Ligações que você recebeu em viagens nacionais                                                  3
+104010603001Ligações que voce recebeu a cobrar                                                              3
+104010604001Ligações Internacionais feitas no Brasil e ligações recebidas no exterior                       3
+104010700001Ligações usando a Telefónica                                                                    3
+104010701001Ligações que você fez                                                                           3
+104010702001Ligações que você recebeu em viagens nacionais                                                  3
+104010703001Ligações que voce recebeu a cobrar                                                              3
+104010704001Ligações Internacionais feitas no Brasil e ligações recebidas no exterior                       3
+104010710001Ligações usando a IPCORP                                                                        3
+104010711001Ligações que você fez                                                                           3
+104010712001Ligações que você recebeu em viagens nacionais                                                  3
+104010713001Ligações que voce recebeu a cobrar                                                              3
+104010714001Ligações Internacionais feitas no Brasil e ligações recebidas no exterior                       3
+104010720001Ligações usando a FONAR                                                                         3
+104010721001Ligações que você fez                                                                           3
+104010722001Ligações que você recebeu em viagens nacionais                                                  3
+104010723001Ligações que voce recebeu a cobrar                                                              3
+104010724001Ligações Internacionais feitas no Brasil e ligações recebidas no exterior                       3
+104010800001Ligações usando a TIM                                                                           3
+104010801001Ligações que você fez                                                                           3
+104010802001Ligações que você recebeu em viagens nacionais                                                  3
+104010803001Ligações que voce recebeu a cobrar                                                              3
+104010804001Ligações Internacionais feitas no Brasil e ligações recebidas no exterior                       3
+104010810001Ligações usando a GVT                                                                           3
+104010811001Ligações que você fez                                                                           3
+104010812001Ligações que você recebeu em viagens nacionais                                                  3
+104010813001Ligações que voce recebeu a cobrar                                                              3
+104010814001Ligações Internacionais feitas no Brasil e ligações recebidas no exterior                       3
+104010820001Ligações usando a Sercomtel                                                                     3
+104010821001Ligações que você fez                                                                           3
+104010822001Ligações que você recebeu em viagens nacionais                                                  3
+104010823001Ligações que voce recebeu a cobrar                                                              3
+104010824001Ligações Internacionais feitas no Brasil e ligações recebidas no exterior                       3
+104010830001Ligações usando a AT&T                                                                          3
+104010831001Ligações que você fez                                                                           3
+104010832001Ligações que você recebeu em viagens nacionais                                                  3
+104010833001Ligações que voce recebeu a cobrar                                                              3
+104010834001Ligações Internacionais feitas no Brasil e ligações recebidas no exterior                       3
+104010840001Ligações usando a Brasil Telecom                                                                3
+104010841001Ligações que você fez                                                                           3
+104010842001Ligações que você recebeu em viagens nacionais                                                  3
+104010843001Ligações que voce recebeu a cobrar                                                              3
+104010844001Ligações Internacionais feitas no Brasil e ligações recebidas no exterior                       3
+104010850001Ligações usando a Aerotech                                                                      3
+104010851001Ligações que você fez                                                                           3
+104010852001Ligações que você recebeu em viagens nacionais                                                  3
+104010853001Ligações que voce recebeu a cobrar                                                              3
+104010854001Ligações Internacionais feitas no Brasil e ligações recebidas no exterior                       3
+104010860001Ligações usando a Transit                                                                       3
+104010861001Ligações que você fez                                                                           3
+104010862001Ligações que você recebeu em viagens nacionais                                                  3
+104010863001Ligações que voce recebeu a cobrar                                                              3
+104010864001Ligações Internacionais feitas no Brasil e ligações recebidas no exterior                       3
+104010870001Ligações usando a TIM                                                                           3
+104010871001Ligações que você fez                                                                           3
+104010872001Ligações que você recebeu em viagens nacionais                                                  3
+104010873001Ligações que voce recebeu a cobrar                                                              3
+104010874001Ligações Internacionais feitas no Brasil e ligações recebidas no exterior                       3
+104010900001Ligações originadas no fixo usando a Oi:                                                        3
+104010900002PACKAGE_DISPLAY                                                                 102420NULL      3
+104010901101Ligações que você fez                                                                           3
+104500000001Ligações de Longa Distância Oi                                                                  3
+104510000001Data                                                                                            3
+104510000002Hora                                                                                            3
+104510000003Telefone                                                                                        3
+104510000004Origem                                                                                          3
+104510000005Destino                                                                                         3
+104510000006Duração                                                                                         3
+104510000007Horário                                                                                         3
+104510000008Valor (R$)                                                                                      3
+104510100001Ligações que você fez                                                                           3
+104510200001Ligações que você recebeu em viagens nacionais                                                  3
+104510300001Ligações que você recebeu a cobrar                                                              3
+104510400001Ligações Internacionais feitas no Brasil e ligações recebidas no exterior                       3
+104510500001Ligações Internacionais feitas no Brasil para países da promoção DDI 31 Amigo                   3
+104600000001Outros Serviços                                                                                 3
+104610000001Data                                                                                            3
+104610000002Hora                                                                                            3
+104610000003Telefone                                                                                        3
+104610000004Origem                                                                                          3
+104610000005Destino                                                                                         3
+104610000006Duração                                                                                         3
+104610000007Horário                                                                                         3
+104610000008Valor (R$)                                                                                      3
+104610100001Auxílio a Lista                                                                                 3
+104610200001Serviço                                                                                         3
+104610200002Data                                                                                            3
+104610200003Hora                                                                                            3
+104610200004Valor                                                                                           3
+104620000001Serviço                                                                                         3
+104620000002Data                                                                                            3
+104620000003Hora                                                                                            3
+104620000004Valor                                                                                           3
+104700000001Serviços do Grupo Oi contratados do seu Oi Fixo                                                  
+104710000001Descrição                                                                                       3
+104710000002Data                                                                                            3
+104710000003Valor (R$)                                                                                      3
+105000000001Ligações em viagem pelo exterior                                                                3
+105010000001Data                                                                                            3
+105010000002Hora                                                                                            3
+105010000003Telefone                                                                                        3
+105010000004Origem                                                                                          3
+105010000005Destino                                                                                         3
+105010000006Duração                                                                                         3
+105010000007Horário                                                                                         3
+105010000008Valor (R$)                                                                                      3
+105010100001Ligações que você fez                                                                           3
+105010200001Ligações que você recebeu                                                                       3
+106000000001Mensagens/Internet Móvel                                                                        3
+106010000001Data                                                                                            2
+106010000002Hora                                                                                            2
+106010000003Telefone                                                                                        2
+106010000004Valor (R$)                                                                                      2
+106010100001Uso de Mensagens dentro da área Oi                                                              3
+106010101001SMS                                                                                             2
+106010102001Oi Serviços Especiais                                                                           2
+106010103001Sons & Imagens                                                                                  2
+106010104001Oi Torpedo                                                                                      2
+106010104501Oi Torpedo a Cobrar                                                                             2
+106010105001Menu Oi                                                                                         2
+106010105501Oi Agenda                                                                                       2
+106010106001Oi Multimídia                                                                                   2
+106010107001Oi Jogos                                                                                        2
+106010108001Assinatura de conteúdos SMS e Downloads                                                         2
+106010109001Oi Vídeo                                                                                        2
+106010109301Assinatura de conteúdos WAP                                                                     2
+106010109501Consulta Telecheque                                                                             2
+106010109601Consulta Oi Paggo                                                                               2
+106010109701Oi TV Móvel                                                                                     2
+106010109801Cupom Mania                                                                                     2
+106010109901Oi Torpedo de Voz                                                                               2
+106010200001Uso de Mensagens fora da área Oi                                                                3
+106010206001Oi Multimídia                                                                                   2
+106010209001Oi Vídeo                                                                                        2
+106010300001Uso de Mensagens em viagem pelo exterior                                                        3
+106010306001Oi Multimídia                                                                                   2
+106010309001Oi Vídeo                                                                                        2
+106020000001Data                                                                                            2
+106020000002Hora                                                                                            2
+106020000003Telefone                                                                                        2
+106020000004Origem                                                                                          2
+106020000005Duração                                                                                         2
+106020000006Volume                                                                                          2
+106020000007Conteúdo                                                                                        2
+106020000008Valor (R$)                                                                                      2
+106020100001Uso de Internet Móvel dentro da área Oi                                                         3
+106020101001Oi Dados Avulso                                                                                 2
+106020102001Oi WAP                                                                                          2
+106020103001Oi Dados                                                                                        2
+106020104001Oi Dados Discado                                                                                2
+106020200001Uso de Internet Móvel fora da área Oi (Outras Operadoras)                                       3
+106020201001Oi Dados Avulso                                                                                 2
+106020202001Oi WAP                                                                                          2
+106020203001Oi Dados                                                                                        2
+106020204001Oi Dados Discado                                                                                2
+106020300001Uso de Internet Móvel em viagem pelo exterior                                                   3
+106020301001Oi Dados Avulso                                                                                 2
+106020302001Oi WAP                                                                                          2
+106020303001Oi Dados                                                                                        2
+106020304001Oi Dados Discado                                                                                2
+106020400001Uso de Internet Móvel fora da área Oi (Areas Especiais)                                         3
+106020401001Oi Dados Avulso                                                                                 2
+106020402001Oi WAP                                                                                          2
+106020403001Oi Dados                                                                                        2
+106020404001Oi Dados Discado                                                                                2
+107000000001Débitos Diversos                                                                                3
+107010000001Descrição                                                                                       3
+107010000002Data                                                                                            3
+107010000003Valor (R$)                                                                                      3
+108000000001Créditos Diversos                                                                               3
+108010000001Ajustes                                                                                         3
+108010100001Data                                                                                            3
+108010100002Hora                                                                                            3
+108010100003No. Contestação                                                                                 3
+108010100004Telefone                                                                                        3
+108010100005Origem                                                                                          3
+108010100006Destino                                                                                         3
+108010100007Duração                                                                                         3
+108010100008Horário                                                                                         3
+108010100009Valor (R$)                                                                                      3
+108010200001Data                                                                                            3
+108010200002Hora                                                                                            3
+108010200003No. Contestação                                                                                 3
+108010200004Descrição                                                                                       3
+108010200005Valor (R$)                                                                                      3
+108020000001Créditos Diversos                                                                               3
+108500000001Bônus Programa de Relacionamento                                                                3
+108510000001Descrição                                                                                       3
+108510000002Valor (R$)                                                                                      3
+109000000001Descontos                                                                                       3
+109010000001Descrição                                                                                       3
+109010000002Valor (R$)                                                                                      3
+109500000001Mensagens                                                                                       3
+110000000001Resumo da sua conta Oi                                                                          3
+110000000002Valor (R$)                                                                                      3
+130000000001Resumo do seu Oi:                                                                               3
+130000000002EXTERNAL_ID                                                                     100248NULL      3
+130000000003Valor (R$)                                                                                      3
+140000000001Demonstrativo de sua Fatura Oi                                                                  3
+141000000001Prestadora:                                                                                     3
+141000000002CNPJ:                                                                                           3
+141000000003INSC.ESTADUAL nº                                                                                3
+141000000004INSC.MUNICIPAL nº                                                                               3
+141000000005UF:                                                                                             3
+141000000006                                                                                                3
+141000000007                                                                                                3
+141000000008CEP:                                                                                            3
+141010200001Outros serviços                                                                                 3
+150000000001Demonstrativo de sua Fatura Oi Fixo                                                             3
+151000000001Prestadora:                                                                                     3
+151000000002CNPJ:                                                                                           3
+151000000003INSC.ESTADUAL nº                                                                                3
+151000000004INSC.MUNICIPAL nº                                                                               3
+151000000005UF:                                                                                             3
+151000000006                                                                                                3
+151000000007                                                                                                3
+151000000008CEP:                                                                                            3
+161200000001Serviços Conta Oi                                                                               3
+161205000001Benefício pra toda vida Oi                                                                      3
+161205500001Descrição                                                                                       3
+161205500002Valor (R$)                                                                                      3
+161210000001Período:                                                                                        3
+161210000002FROM_DATE                                                                       100410DD/MM     3
+161210000003a                                                                                               3
+161210000004TO_DATE                                                                         100510DD/MM     3
+161210000005PACKAGE_DISPLAY                                                                 100380NULL      3
+161220000001Período:                                                                                        3
+161220000002FROM_DATE                                                                       100410DD/MM     3
+161220000003a                                                                                               3
+161220000004TO_DATE                                                                         100510DD/MM     3
+161220000005PACKAGE_DISPLAY                                                                 100380NULL      3
+161230000001Período:                                                                                        3
+161230000002FROM_DATE                                                                       100410DD/MM     3
+161230000003a                                                                                               3
+161230000004TO_DATE                                                                         100510DD/MM     3
+161230000005PACKAGE_DISPLAY                                                                 100380NULL      3
+161231000001Período:                                                                                        3
+161231000002FROM_DATE                                                                       100410DD/MM     3
+161231000003a                                                                                               3
+161231000004TO_DATE                                                                         100510DD/MM     3
+161231000005PACKAGE_DISPLAY                                                                 100380NULL      3
+161232000001Período:                                                                                        3
+161232000002FROM_DATE                                                                       100410DD/MM     3
+161232000003a                                                                                               3
+161232000004TO_DATE                                                                         100510DD/MM     3
+161232000005PACKAGE_DISPLAY                                                                 100380NULL      3
+161233000001Período:                                                                                        3
+161233000002FROM_DATE                                                                       100410DD/MM     3
+161233000003a                                                                                               3
+161233000004TO_DATE                                                                         100510DD/MM     3
+161233000005PACKAGE_DISPLAY                                                                 100380NULL      3
+161234000001Período:                                                                                        3
+161234000002FROM_DATE                                                                       100410DD/MM     3
+161234000003a                                                                                               3
+161234000004TO_DATE                                                                         100510DD/MM     3
+161234000005PACKAGE_DISPLAY                                                                 100380NULL      3
+161235000001Período:                                                                                        3
+161235000002FROM_DATE                                                                       100410DD/MM     3
+161235000003a                                                                                               3
+161235000004TO_DATE                                                                         100510DD/MM     3
+161235000005PACKAGE_DISPLAY                                                                 100380NULL      3
+161236000001Período:                                                                                        3
+161236000002FROM_DATE                                                                       100410DD/MM     3
+161236000003a                                                                                               3
+161236000004TO_DATE                                                                         100510DD/MM     3
+161236000005PACKAGE_DISPLAY                                                                 100380NULL      3
+161237000001Período:                                                                                        3
+161237000002FROM_DATE                                                                       100410DD/MM     3
+161237000003a                                                                                               3
+161237000004TO_DATE                                                                         100510DD/MM     3
+161237000004TO_DATE                                                                         100510DD/MM     3
+161237000005PACKAGE_DISPLAY                                                                 100380NULL      3
+161238000001Período:                                                                                        3
+161238000002FROM_DATE                                                                       100410DD/MM     3
+161238000003a                                                                                               3
+161238000004TO_DATE                                                                         100510DD/MM     3
+161238000005PACKAGE_DISPLAY                                                                 100380NULL      3
+161240000001Período:                                                                                        3
+161240000002FROM_DATE                                                                       100410DD/MM     3
+161240000003a                                                                                               3
+161240000004TO_DATE                                                                         100510DD/MM     3
+161240000005PACKAGE_DISPLAY                                                                 100380NULL      3
+161241000001Período:                                                                                        3
+161241000002FROM_DATE                                                                       100410DD/MM     3
+161241000003a                                                                                               3
+161241000004TO_DATE                                                                         100510DD/MM     3
+161241000005PACKAGE_DISPLAY                                                                 100380NULL      3
+161242000001Período:                                                                                        3
+161242000002FROM_DATE                                                                       100410DD/MM     3
+161242000003a                                                                                               3
+161242000004TO_DATE                                                                         100510DD/MM     3
+161242000005PACKAGE_DISPLAY                                                                 100380NULL      3
+161243000001Período:                                                                                        3
+161243000002FROM_DATE                                                                       100410DD/MM     3
+161243000003a                                                                                               3
+161243000004TO_DATE                                                                         100510DD/MM     3
+161243000005PACKAGE_DISPLAY                                                                 100380NULL      3
+170000000001Demonstrativo Consolidado da sua Conta Integrada                                                3
+171000000001No. Fatura Oi:                                                                                  3
+171000000002BILL_REF_NO                                                                     102313NULL      3
+172000000001No. Fatura Oi Fixo:                                                                             3
+172000000002BILL_REF_NO                                                                     102313NULL      3
+180000000001Demonstrativo Consolidado da sua Conta Integrada                                                3
+181000000001No. Fatura Oi Fixo:                                                                             3
+181000000002BILL_REF_NO                                                                     102310NULL      3
+200000000001Créditos Anteriores Conta Oi                                                                    3
+201000000001Descrição                                                                                       3
+201000000002Valor (R$)                                                                                      3
+210000000001Parcelamento de Aparelhos                                                                       3
+211000000001Data                                                                                            3
+211000000002Descrição                                                                                       3
+211000000003Identificação                                                                                   3
+211000000004Valor (R$)                                                                                      3
+220000000001Doações                                                                                         3
+221000000001Descrição                                                                                       3
+221000000002Data                                                                                            3
+221000000003Valor (R$)                                                                                      3
+230000000001Débitos Diversos Conta Oi                                                                       3
+231000000001Descrição                                                                                       3
+231000000002Data                                                                                            3
+231000000003Valor (R$)                                                                                      3
+240000000001Créditos Diversos Conta Oi                                                                      3
+241000000001Ajustes                                                                                         3
+241010000001Data                                                                                            3
+241010000002Hora                                                                                            3
+241010000003No. Contestação                                                                                 3
+241010000004Descrição                                                                                       3
+241010000005Valor (R$)                                                                                      3
+242000000001Créditos Diversos                                                                               3
+250000000001Descontos Conta Oi                                                                              3
+251000000001Descrição                                                                                       3
+251000000002Valor (R$)                                                                                      3
+260000000001Retenção Tributária                                                                             3
+261000000001Descrição                                                                                       3
+261000000002Valor (R$)                                                                                      3
+300000000001Multas e Juros                                                                                  3
+301000000001Data                                                                                            3
+301000000002Descrição                                                                                       3
+301000000003Identificação                                                                                   3
+301000000004Valor (R$)                                                                                      3
+400000000001Parcelamento de Débitos                                                                         3
+401000000001Data                                                                                            3
+401000000002Descrição                                                                                       3
+401000000003Parcela                                                                                         3
+401000000004Identificação                                                                                   3
+401000000005Valor (R$)                                                                                      3
+500000000001Recobrança de Valores                                                                           3
+501000000001Data                                                                                            3
+501000000002Descrição                                                                                       3
+501000000003No. Contestação                                                                                 3
+501000000004Valor (R$)                                                                                      3
+600000000001Serviços de Parceiros                                                                           3
+601000000001E-commerce                                                                                      3
+601000000002Data                                                                                            3
+601000000003Hora                                                                                            3
+601000000004Provedor                                                                                        3
+601000000005Serviço                                                                                         3
+601000000006Valor (R$)                                                                                      3
+700500000001CÓDIGO PRÓXIMO AO VALOR DO ITEM IDENTIFICA SERVIÇO REFATURADO E/OU PARTICIPAÇÃO                 3
+700500000002EM PLANO PROMOCIONAL CONFORME ABAIXO:                                                           3
+701005000001Seu Plano Oi Fixo Controle                                                                      3
+701005100001Período:                                                                                        3
+701005100002FROM_DATE                                                                       100410DD/MM     3
+701005100003a                                                                                               3
+701005100004TO_DATE                                                                         100510DD/MM     3
+701005100005PACKAGE_DISPLAY                                                                 100380NULL      3
+701010000001Seu Plano Oi Fixo                                                                               3
+701010100001Período:                                                                                        3
+701010100002FROM_DATE                                                                       100410DD/MM     3
+701010100003a                                                                                               3
+701010100004TO_DATE                                                                         100510DD/MM     3
+701010100005PACKAGE_DISPLAY                                                                 100380NULL      3
+701020000001Serviços Opcionais                                                                              3
+701020100001Período:                                                                                        3
+701020100002FROM_DATE                                                                       100410DD/MM     3
+701020100003a                                                                                               3
+701020100004TO_DATE                                                                         100510DD/MM     3
+701020100005PACKAGE_DISPLAY                                                                 100380NULL      3
+702500000001Ligações Locais para Fixo                                                                       1
+702510000001Consumo Minutos                                                                                 1
+702510000002MINUTOS_CONSUMIDOS                                                              307020HH:MI:SS  1
+702510000003Franquia                                                                                        1
+702510000004MINUTOS_FRANQUIA                                                                307120HH:MI:SS  1
+702510000005Minutos Além Da Franquia                                                                        1
+702510000006MINUTOS_ALEM_FRANQUIA                                                           307220HH:MI:SS  1
+702510000007AMOUNT_CHAR                                                                     3073199999999.991
+703000000001Ligações Locais para Fixo                                                                       2
+703010000001Data                                                                                            2
+703010000002Hora                                                                                            2
+703010000003Telefone                                                                                        2
+703010000004Origem                                                                                          2
+703010000005Destino                                                                                         2
+703010000006Duração                                                                                         2
+703010000007Horário                                                                                         2
+703010000008Minutos Franqueados                                                                             2
+703010000009Valor (R$)                                                                                      2
+703010101001Ligações Dentro da Franquia                                                                     2
+703010102001Ligações Recebidas a Cobrar Dentro da Franquia                                                  2
+703010201001Ligações Fora da Franquia                                                                       2
+703010202001Ligações Recebidas a Cobrar Fora da Franquia                                                    2
+704000000001Ligações Locais para Celular                                                                    3
+704010000001Data                                                                                            3
+704010000002Hora                                                                                            3
+704010000003Telefone                                                                                        3
+704010000004Origem                                                                                          3
+704010000005Destino                                                                                         3
+704010000006Duração                                                                                         3
+704010000007Horário                                                                                         3
+704010000008Valor (R$)                                                                                      3
+704010100001Ligações locais para celular                                                                    3
+704010200001Ligações locais recebidas a cobrar de celular                                                   3
+705000000001Ligações de Longa Distância Usando o 31                                                         3
+705010000001Data                                                                                            3
+705010000002Hora                                                                                            3
+705010000003Telefone                                                                                        3
+705010000004Origem                                                                                          3
+705010000005Destino                                                                                         3
+705010000006Duração                                                                                         3
+705010000007Horário                                                                                         3
+705010000008Valor (R$)                                                                                      3
+705010100001Ligações longa distancia com 31 para fixos                                                      3
+705010200001Ligações longa distancia com 31 para celular                                                    3
+705010300001Ligações recebidas a cobrar                                                                     3
+705010400001Ligações recebidas a cobrar de celular                                                          3
+705010500001Ligações internacionais                                                                         3
+705010600001Ligações internacionais recebidas a cobrar                                                      3
+706000000001Ligações de Longa Distância de Outras Operadoras                                                3
+706010000001Data                                                                                            3
+706010000002Hora                                                                                            3
+706010000003Telefone                                                                                        3
+706010000004Origem                                                                                          3
+706010000005Destino                                                                                         3
+706010000006Duração                                                                                         3
+706010000007Horário                                                                                         3
+706010000008Valor (R$)                                                                                      3
+706010100001Ligações usando a Intelig                                                                       3
+706010101001Ligações que você fez                                                                           3
+706010200001Ligações usando a Embratel                                                                      3
+706010201001Ligações que você fez                                                                           3
+706010300001Ligações usando a CTBC                                                                          3
+706010301001Ligações que você fez                                                                           3
+706010400001Ligações usando a IP Corp Telecom                                                               3
+706010401001Ligações que você fez                                                                           3
+706010500001Ligações usando a GVT                                                                           3
+706010501001Ligações que você fez                                                                           3
+706010600001Ligações usando a Telefónica                                                                    3
+706010601001Ligações que você fez                                                                           3
+706010700001Ligações usando a TIM                                                                           3
+706010701001Ligações que você fez                                                                           3
+706010800001Ligações usando a Brasil Telecom                                                                3
+706010801001Ligações que você fez                                                                           3
+707000000001Ligações para Números Especiais de Outras Operadoras                                            3
+707010000001Descrição                                                                                       3
+707010000002Data                                                                                            3
+707010000003Hora                                                                                            3
+707010000004Telefone                                                                                        3
+707010000005Origem                                                                                          3
+707010000006Destino                                                                                         3
+707010000007Duração                                                                                         3
+707010000008Horário                                                                                         3
+707010000009Valor (R$)                                                                                      3
+708000000001Serviços de Terceiros                                                                           3
+708010000001Descrição                                                                                       3
+708010000002Data                                                                                            3
+708010000003Valor (R$)                                                                                      3
+709000000001Outros Serviços                                                                                 3
+709010000001Data                                                                                            3
+709010000002Hora                                                                                            3
+709010000004Telefone                                                                                        3
+709010000005Duração                                                                                         3
+709010000006Horário                                                                                         3
+709010000007Valor (R$)                                                                                      3
+709010100001Auxílio a Lista                                                                                 3
+709010150001Hora programada                                                                                 3
+709010200001Informador Popular                                                                              3
+709010250001DDD via 102                                                                                     3
+709010300001Busca 102                                                                                       3
+709010350001Completamento de Chamada 102                                                                    3
+709100000001Descontos                                                                                       3
+709110000001Descrição                                                                                       3
+709110000002Valor (R$)                                                                                      3
+709200000001Créditos Diversos                                                                               3
+709210000001Créditos Diversos                                                                               3
+709300000001Débitos Diversos                                                                                3
+709310000001Descrição                                                                                       3
+709310000002Data                                                                                            3
+709310000003Valor (R$)                                                                                      3
+710000000001Resumo da sua conta Oi Fixo                                                                     3
+710000000002Valor (R$)                                                                                      3
+720000000001Seu Plano Oi Fixo                                                                               3
+721000000001Período:                                                                                        3
+721000000002FROM_DATE                                                                       100410DD/MM     3
+721000000003a                                                                                               3
+721000000004TO_DATE                                                                         100510DD/MM     3
+721000000005PACKAGE_DISPLAY                                                                 100380NULL      3
+730000000001Resumo da sua conta Oi Fixo:                                                                    3
+730000000002EXTERNAL_ID                                                                     100248NULL      3
+730000000003Valor (R$)                                                                                      3
+740000000001Descontos / Créditos                                                                            3
+741000000001Descontos Conta Oi                                                                              3
+741010000001Descrição                                                                                       3
+741010000002Valor (R$)                                                                                      3
+742000000001Créditos Diversos Conta Oi                                                                      3
+742010000001Créditos Diversos                                                                               3
+743000000001Créditos Anteriores Conta Oi                                                                    3
+743010000001Descrição                                                                                       3
+743010000002Valor (R$)                                                                                      3
+744000000001Crédito por interrupção                                                                         3
+744010000001Descrição                                                                                       3
+744010000002Valor (R$)                                                                                      3
+750000000001Débitos Diversos Conta Oi                                                                       3
+751000000001Descrição                                                                                       3
+751000000002Data                                                                                            3
+751000000003Valor (R$)                                                                                      3
+760000000001Retenção Tributária                                                                             3
+761000000001Descrição                                                                                       3
+761000000002Valor (R$)                                                                                      3
+770000000001Refaturamento de Valores                                                                        3
+771000000001Data                                                                                            3
+771000000002Descrição                                                                                       3
+771000000003No. Contestação                                                                                 3
+771000000004Valor (R$)                                                                                      3
+780000000001Parcelamento De Débitos                                                                         3
+781000000001Data                                                                                            3
+781000000002Descrição                                                                                       3
+781000000003Parcela                                                                                         3
+781000000004Identificação                                                                                   3
+781000000005Valor (R$)                                                                                      3
+790000000001Multas e Juros                                                                                  3
+791000000001Data                                                                                            3
+791000000002Descrição                                                                                       3
+791000000003Identificação                                                                                   3
+791000000004Valor (R$)                                                                                      3
+800000000001                                                                                101680NULL      3
+800000000002                                                                                101680NULL      3
+981100000001Último Pagamento Recebido.Até                                                                   3
+981100000002SYSDATE                                                                         101310NULL      3
+981100000003Saldo devedor de todas as faturas                                                               3
+981100000004Valor da fatura atual                                                                           3
+981100000005Total a pagar                                                                                   3
+981110000001                                                                                101680NULL      3
+981110000002                                                                                101680NULL      3
+981110000003                                                                                101680NULL      3
+981110000004                                                                                101680NULL      3
+981200000001Resumo das Informações                                                                          3
+981200000002                                                                                101680NULL      3
+981200000003                                                                                101680NULL      3
+981300000001Conta Agrupada por Estado:                                                                      3
+981300000002MKT_CODE_DISPLAY                                                                10144 NULL      3
+981310000001Quantidade de Contas Agrupadas                                                                  3
+981310000002QUANTIDADE_FATURA                                                               101510NULL      3
+991000000001DESCR_OPERADORA                                                                 100680NULL      3
+991000000002CNPJ:                                                                                           3
+991000000003CNPJ_VALUE                                                                      100725NULL      3
+991000000004INSC.ESTADUAL nº                                                                                3
+991000000005INSC_ESTADUAL_VALUE                                                             100815NULL      3
+991000000006Número da NFST:                                                                                 3
+991000000007NF_VALUE                                                                        10109 NULL      3
+991000000008SÉRIE:                                                                                          3
+991000000009SERIE_VALUE                                                                     10112 NULL      3
+991000000010ENDERECO_NF                                                                     101880NULL      3
+991000000011BAIRRO_NF                                                                       101920NULL      3
+991000000012CIDADE_NF                                                                       102045NULL      3
+991000000013ESTADO_NF                                                                       10213 NULL      3
+991000000014CEP_NF                                                                          102215NULL      3
+991000000015REG. ESP.:                                                                                      3
+991000000016REGIME_ESPECIAL_VALUE                                                           100930NULL      3
+991000000017SUB SÉRIE:                                                                                      3
+991000000018SUB_SERIE_VALUE                                                                 10122 NULL      3
+991010000001                                                                                101680NULL      3
+991010000002Valor (R$)                                                                                      3
+991010000003ICMS(%)                                                                                         3
+991010200001                                                                                101680NULL      3
+991010200002                                                                                101680NULL      3
+991010200003                                                                                101680NULL      3
+991010210001                                                                                101680NULL      3
+991010210002                                                                                101680NULL      3
+991010210003                                                                                101680NULL      3
+991010240001                                                                                101680NULL      3
+991010240002                                                                                101680NULL      3
+991010240003                                                                                101680NULL      3
+991010250001                                                                                101680NULL      3
+991010250002                                                                                101680NULL      3
+991010250003                                                                                101680NULL      3
+991010280001                                                                                101680NULL      3
+991010280002                                                                                101680NULL      3
+991010280003                                                                                101680NULL      3
+991010300001                                                                                101680NULL      3
+991010300002                                                                                101680NULL      3
+991010300003                                                                                101680NULL      3
+991010310001                                                                                101680NULL      3
+991010310002                                                                                101680NULL      3
+991010310003                                                                                101680NULL      3
+991010320001                                                                                101680NULL      3
+991010320002                                                                                101680NULL      3
+991010320003                                                                                101680NULL      3
+991010330001                                                                                101680NULL      3
+991010330002                                                                                101680NULL      3
+991010330003                                                                                101680NULL      3
+991010340001                                                                                101680NULL      3
+991010340002                                                                                101680NULL      3
+991010340003                                                                                101680NULL      3
+991010350001                                                                                101680NULL      3
+991010350002                                                                                101680NULL      3
+991010350003                                                                                101680NULL      3
+991010360001                                                                                101680NULL      3
+991010360002                                                                                101680NULL      3
+991010360003                                                                                101680NULL      3
+991010400001                                                                                101680NULL      3
+991010400002                                                                                101680NULL      3
+991010400003                                                                                101680NULL      3
+991010500001Débitos Diversos                                                                                3
+991010500002                                                                                101680NULL      3
+991010500003                                                                                101680NULL      3
+991010500004                                                                                101680NULL      3
+991010600001Créditos Diversos                                                                               3
+991010600002                                                                                101680NULL      3
+991010600003                                                                                101680NULL      3
+991010600004                                                                                101680NULL      3
+991010700001                                                                                101680NULL      3
+991010700002                                                                                101680NULL      3
+991010700003                                                                                101680NULL      3
+991010710001                                                                                101680NULL      3
+991010710002                                                                                101680NULL      3
+991010710003                                                                                101680NULL      3
+991010750001                                                                                101680NULL      3
+991010750002                                                                                101680NULL      3
+991010750003                                                                                101680NULL      3
+991010770001                                                                                101680NULL      3
+991010770002                                                                                101680NULL      3
+991010770003                                                                                101680NULL      3
+991010900001                                                                                101680NULL      3
+991010900002                                                                                101680NULL      3
+991010900003                                                                                101680NULL      3
+991010910001                                                                                101680NULL      3
+991010910002                                                                                101680NULL      3
+991010910003                                                                                101680NULL      3
+991010920001                                                                                101680NULL      3
+991010920002                                                                                101680NULL      3
+991010920003                                                                                101680NULL      3
+991010930001                                                                                101680NULL      3
+991010930002                                                                                101680NULL      3
+991010930003                                                                                101680NULL      3
+991010940001                                                                                101680NULL      3
+991010940002                                                                                101680NULL      3
+991010940003                                                                                101680NULL      3
+991010950001                                                                                101680NULL      3
+991010950002                                                                                101680NULL      3
+991010950003                                                                                101680NULL      3
+991080000001                                                                                101680NULL      3
+991080000002                                                                                101680NULL      3
+991080000003                                                                                101680NULL      3
+998000000001Dados Adicionais                                                                                3
+999010000001                                                                                101680NULL      3
+999010000002                                                                                101680NULL      3
+999010000003                                                                                101680NULL      3
+999010000004                                                                                101680NULL      3
+999010000005                                                                                101680NULL      3
+999010000006                                                                                101680NULL      3
+999020000001Reservado ao Fisco                                                                              3

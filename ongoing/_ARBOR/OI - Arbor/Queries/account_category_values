@@ -1,0 +1,43 @@
+ACCOUNT_CATEGORY	LANGUAGE_CODE	SHORT_DISPLAY	DISPLAY_VALUE
+168	1	PAGGO	Débito Programado na Paggo
+203	1	10	Corporativos Dispersos Governo (Gov. Federal de Administração Indireta)
+101	1	2	Provedores não Governo
+102	1	1	Corporativos Concentrados não Governo
+103	1	1	Corporativos Dispersos não Governo
+104	1	1	Corporativos Financeiros não Governo
+105	1	4	Pequenas e Médias Dispersas não Governo
+106	1	4	Médias Tradicionais e Pequenas Concentradas não Governo
+107	1	5	Micro Concentrada não Governo
+108	1	5	Residencial Sofisticado não Governo
+109	1	5	Residencial Básico não Governo
+201	1	3	Provedores Governo (gov. federal de Administração Indireta)
+202	1	3	Corporativos Concentrados Governo (gov. federal de Administração Indireta)
+204	1	3	Corporativos Financeiros Governo (gov. federal de Administração Indireta)
+205	1	3	Pequenas e Médias Dispersas Governo (gov. federal de Administração Indireta)
+206	1	3	Médias Tradicionais e Pequenas Concentradas Governo (gov. federal de Admistração
+207	1	3	Micro Concentrada Governo (gov. federal de Administração Indireta)
+208	1	3	Residencial Sofisticado Governo (gov. federal de Administração Indireta)
+209	1	3	Residencial Básico Governo (gov. federal de Administração Indireta)
+150	1		Business Governo não Federal
+151	1		Business Profissionais Liberais
+152	1		Business Micro Empresas
+153	1		Business Pequena Empresas
+154	1		Business Média Empresas
+155	1		Business Grande Empresas
+156	1		Business Mega Empresas
+157	1		Business Bancos
+158	1		Business Telecomunicações
+159	1		Residencial 1
+160	1		Residencial 2
+161	1		Residencial 3
+162	1		Residencial 4
+163	1		Residencial 5
+164	1		Residencial 6
+165	1		Residencial 7
+166	1		Residencial 8
+250	1	3	Business Governo Federal
+110	1		Residencial Fixa
+111	1		Empresa Fixa
+112	1		Governo Municipal Fixa
+113	1		Governo Estadual Fixa
+114	1		Governo Federal Fixa

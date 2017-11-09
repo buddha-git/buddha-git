@@ -1,0 +1,514 @@
+100000000001Fim do demonstrativo Oi:                                                                             3
+100000000002EXTERNAL_ID                                                                     200848NULL           3
+100000000003AMOUNT_CHAR                                                                     20041999999999       3
+101100000001Total Seu Plano Oi                                                                                    
+101100000002AMOUNT_CHAR                                                                     20041999999999        
+101120100001NUMERADOR_DETALHADA                                                             20021099999999       3
+101120100002Total                                                                                                3
+101120100003AMOUNT_CHAR                                                                     20041999999999       3
+101120200001NUMERADOR_DETALHADA                                                             20021099999999       3
+101120200002Total                                                                                                3
+101120200003AMOUNT_CHAR                                                                     20041999999999       3
+101120300001NUMERADOR_DETALHADA                                                             20021099999999       3
+101120300002Total                                                                                                3
+101120300003AMOUNT_CHAR                                                                     20041999999999       3
+101129010001Total                                                                                                3
+101129010002AMOUNT_CHAR                                                                     20041999999999       3
+102410000001NUMERADOR_DETALHADA                                                             20021099999999       3
+102410000002Total                                                                                                3
+102410000003AMOUNT_CHAR                                                                     20041999999999       3
+102510000001NUMERADOR_DETALHADA                                                             20021099999999       3
+102510000002Total                                                                                                3
+102510000003AMOUNT_CHAR                                                                     20041999999999       3
+102510100001Total                                                                                                3
+102610000001NUMERADOR_DETALHADA                                                             20021099999999       3
+102610000002Total                                                                                                3
+102610000003AMOUNT_CHAR                                                                     20041999999999       3
+102700000001Total dos Prêmios Programa de Relacionamento                                                         3
+102700000002AMOUNT_CHAR                                                                     20041999999999       3
+102800000001                                                                                                     3
+102800000002Total                                                                                                3
+102800000003AMOUNT_CHAR                                                                     20041999999999       3
+102810000001NUMERADOR_DETALHADA                                                             20021099999999       3
+103000000001Tudo que você usou em Ligações Locais                                                                3
+103000000002AMOUNT_CHAR                                                                     20041999999999       3
+103010100001Duração Total                                                                                        3
+103010100002VOLUME_CHAR                                                                     200720NULL           3
+103010200002NUMERADOR_SUMARIZADA                                                            20031099999999       1
+103010200004QUANTIDADE_CHAR                                                                 20051999999999       1
+103010200005AMOUNT_CHAR                                                                     20041999999999       1
+103010200001Duração Total                                                                                        3
+103010200006VOLUME_CHAR                                                                     200720NULL           3
+103010300002NUMERADOR_SUMARIZADA                                                            20031099999999       1
+103010300004QUANTIDADE_CHAR                                                                 20051999999999       1
+103010300005AMOUNT_CHAR                                                                     20041999999999       1
+103010300001Duração Total                                                                                        3
+103010300006VOLUME_CHAR                                                                     200720NULL           3
+103010400002NUMERADOR_SUMARIZADA                                                            20031099999999       1
+103010400004QUANTIDADE_CHAR                                                                 20051999999999       1
+103010400005AMOUNT_CHAR                                                                     20041999999999       1
+103010400001Duração Total                                                                                        3
+103010400006VOLUME_CHAR                                                                     200720NULL           3
+103010600001ADs (Adicional por cham.) e ligações locais na rede de outras operadoras                             1
+103010600002NUMERADOR_SUMARIZADA                                                            20031099999999       1
+103010600003COLUNA_BRANCO_20                                                                200920HH:MI:SS       1
+103010600004QUANTIDADE_CHAR                                                                 20051999999999       1
+103010600005AMOUNT_CHAR                                                                     20041999999999       1
+103010700001Serviços Especiais de Voz                                                                            1
+103010700002NUMERADOR_SUMARIZADA                                                            20031099999999       1
+103010700003COLUNA_BRANCO_20                                                                200920HH:MI:SS       1
+103010700004QUANTIDADE_CHAR                                                                 20051999999999       1
+103010700005AMOUNT_CHAR                                                                     20041999999999       1
+103010800001AD (Adicional por cham.) e ligações locais na rede da Brasil Telecom                                 1
+103010800002NUMERADOR_SUMARIZADA                                                            20031099999999       1
+103010800003COLUNA_BRANCO_20                                                                200920HH:MI:SS       1
+103010800004QUANTIDADE_CHAR                                                                 20051999999999       1
+103010800005AMOUNT_CHAR                                                                     20041999999999       1
+103010901001Duração Total                                                                                        3
+103010901002VOLUME_CHAR                                                                     200720NULL           3
+103300000001Tudo que você usou em Ligações Locais Oi Empresa +                                                   3
+103300000002AMOUNT_CHAR                                                                     20041999999999       3
+103310100001Ligações de Oi para Oi                                                                               1
+103310100002NUMERADOR_SUMARIZADA                                                            20031099999999       1
+103310100003DURACAO_CHAR                                                                    200619HH:MI:SS       1
+103310100004QUANTIDADE_CHAR                                                                 20051999999999       1
+103310100005AMOUNT_CHAR                                                                     20041999999999       1
+103310200001Ligações de Oi para Fixo                                                                             1
+103310200002NUMERADOR_SUMARIZADA                                                            20031099999999       1
+103310200003DURACAO_CHAR                                                                    200619HH:MI:SS       1
+103310200004QUANTIDADE_CHAR                                                                 20051999999999       1
+103310200005AMOUNT_CHAR                                                                     20041999999999       1
+103500000001Tudo que você usou em ligações para Números Especiais Oi                                             3
+103500000002AMOUNT_CHAR                                                                     20041999999999       3
+103600000001Tudo que você usou em ligações para Números Especiais de outras operadoras                           3
+103600000002AMOUNT_CHAR                                                                     20041999999999       3
+104000000001Tudo que você usou em Ligações de Longa Distância de outras operadoras                               3
+104000000002AMOUNT_CHAR                                                                     20041999999999       3
+104010100001Total de ligações de longa distância                                                                 3
+104010100002AMOUNT_CHAR                                                                     20041999999999       3
+104010101001Total feitas via DDD 31                                                                              3
+104010101002AMOUNT_CHAR                                                                     20041999999999       3
+104010101101Total de ligações feitas                                                                             3
+104010101102AMOUNT_CHAR                                                                     20041999999999       3
+104010102001Total recebidas via DDD 31                                                                           3
+104010102002AMOUNT_CHAR                                                                     20041999999999       3
+104010102101Total de ligações recebidas                                                                          3
+104010102102AMOUNT_CHAR                                                                     20041999999999       3
+104010103001Total ligações fora da área Oi via DDD 31                                                            3
+104010103002AMOUNT_CHAR                                                                     20041999999999       3
+104010103101Total de ligações recebidas a cobrar                                                                 3
+104010103102AMOUNT_CHAR                                                                     20041999999999       3
+104010104101Total internacionais feitas no Brasil com a Oi                                                       3
+104010104102AMOUNT_CHAR                                                                     20041999999999       3
+104010105101Total internacionais feitas no Brasil pela promoção DDI 31 Amigo                                     3
+104010105102AMOUNT_CHAR                                                                     20041999999999       3
+104010200001Total Intelig                                                                                        3
+104010200002AMOUNT_CHAR                                                                     20041999999999       3
+104010210001Total Intelig                                                                                        3
+104010210002AMOUNT_CHAR                                                                     20041999999999       3
+104010300001Total Embratel                                                                                       3
+104010300002AMOUNT_CHAR                                                                     20041999999999       3
+104010310001Total Embratel                                                                                       3
+104010310002AMOUNT_CHAR                                                                     20041999999999       3
+104010400001Total CTBC                                                                                           3
+104010400002AMOUNT_CHAR                                                                     20041999999999       3
+104010500001Total Claro                                                                                          3
+104010500002AMOUNT_CHAR                                                                     20041999999999       3
+104010600001Total Vésper                                                                                         3
+104010600002AMOUNT_CHAR                                                                     20041999999999       3
+104010700001Total Telefónica                                                                                     3
+104010700002AMOUNT_CHAR                                                                     20041999999999       3
+104010710001Total IPCORP                                                                                         3
+104010710002AMOUNT_CHAR                                                                     20041999999999       3
+104010720001Total FONAR                                                                                          3
+104010720002AMOUNT_CHAR                                                                     20041999999999       3
+104010800001Total TIM                                                                                            3
+104010800002AMOUNT_CHAR                                                                     20041999999999       3
+104010810001Total GVT                                                                                            3
+104010810002AMOUNT_CHAR                                                                     20041999999999       3
+104010820001Total Sercomtel                                                                                      3
+104010820002AMOUNT_CHAR                                                                     20041999999999       3
+104010830001Total AT&T                                                                                           3
+104010830002AMOUNT_CHAR                                                                     20041999999999       3
+104010840001Total Brasil Telecom                                                                                 3
+104010840002AMOUNT_CHAR                                                                     20041999999999       3
+104010850001Total Aerotech                                                                                       3
+104010850002AMOUNT_CHAR                                                                     20041999999999       3
+104010860001Total Transit                                                                                        3
+104010860002AMOUNT_CHAR                                                                     20041999999999       3
+104010870001Total TIM                                                                                            3
+104010870002AMOUNT_CHAR                                                                     20041999999999       3
+104010901101Total de ligações originadas no fixo                                                                 3
+104010901102AMOUNT_CHAR                                                                     20041999999999       3
+104500000001Tudo que você usou em ligações de Longa Distância Oi                                                 3
+104500000002AMOUNT_CHAR                                                                     20041999999999       3
+104510100001Total feitas                                                                                         3
+104510100002AMOUNT_CHAR                                                                     20041999999999       3
+104510200001Total recebidas                                                                                      3
+104510200002AMOUNT_CHAR                                                                     20041999999999       3
+104510300001Total recebidas a cobrar                                                                             3
+104510300002AMOUNT_CHAR                                                                     20041999999999       3
+104510400001Total de ligações Internacionais feitas no Brasil                                                    3
+104510400002AMOUNT_CHAR                                                                     20041999999999       3
+104510500001Total internacionais feitas no Brasil pela promoção DDI 31 Amigo                                     3
+104510500002AMOUNT_CHAR                                                                     20041999999999       3
+104600000001Tudo que você usou em Outros Serviços                                                                3
+104600000002AMOUNT_CHAR                                                                     20041999999999       3
+104700000001Total de serviços contratados                                                                         
+104700000002AMOUNT_CHAR                                                                     20041999999999        
+105000000001Tudo que você usou em viagem pelo exterior                                                           3
+105000000002AMOUNT_CHAR                                                                     20041999999999       3
+105010100001Total feitas                                                                                         3
+105010100002AMOUNT_CHAR                                                                     20041999999999       3
+105010200001Total recebidas                                                                                      3
+105010200002AMOUNT_CHAR                                                                     20041999999999       3
+106000000001Tudo que você usou em Mensagens/Internet Móvel                                                       3
+106000000002AMOUNT_CHAR                                                                     20041999999999       3
+106010109801NUMERADOR_SUMARIZADA                                                            20031099999999       1
+106010109802Cupom Mania                                                                                          1
+106010109803QUANTIDADE_CHAR                                                                 20051999999999       1
+106010109804AMOUNT_CHAR                                                                     20041999999999       1
+106010109901NUMERADOR_SUMARIZADA                                                            20031099999999       1
+106010109902Oi Torpedo de Voz                                                                                    1
+106010109903QUANTIDADE_CHAR                                                                 20051999999999       1
+106010109904AMOUNT_CHAR                                                                     20041999999999       1
+106010102001NUMERADOR_SUMARIZADA                                                            20031099999999       1
+106010102002Menu Oi MTV                                                                                          1
+106010102003QUANTIDADE_CHAR                                                                 20051999999999       1
+106010102004AMOUNT_CHAR                                                                     20041999999999       1
+106010103001NUMERADOR_SUMARIZADA                                                            20031099999999       1
+106010103002Sons & Imagens                                                                                       1
+106010103003QUANTIDADE_CHAR                                                                 20051999999999       1
+106010103004AMOUNT_CHAR                                                                     20041999999999       1
+106010104001NUMERADOR_SUMARIZADA                                                            20031099999999       1
+106010104002Oi Torpedo                                                                                           1
+106010104003QUANTIDADE_CHAR                                                                 20051999999999       1
+106010104004AMOUNT_CHAR                                                                     20041999999999       1
+106010105001NUMERADOR_SUMARIZADA                                                            20031099999999       1
+106010105002Menu Oi                                                                                              1
+106010105003QUANTIDADE_CHAR                                                                 20051999999999       1
+106010105004AMOUNT_CHAR                                                                     20041999999999       1
+106010106001NUMERADOR_SUMARIZADA                                                            20031099999999       1
+106010106002Oi Multimídia                                                                                        1
+106010106003QUANTIDADE_CHAR                                                                 20051999999999       1
+106010106004AMOUNT_CHAR                                                                     20041999999999       1
+106010107001NUMERADOR_SUMARIZADA                                                            20031099999999       1
+106010107002Oi Jogos                                                                                             1
+106010107003QUANTIDADE_CHAR                                                                 20051999999999       1
+106010107004AMOUNT_CHAR                                                                     20041999999999       1
+106010108001NUMERADOR_SUMARIZADA                                                            20031099999999       1
+106010108002Assinatura de conteúdos SMS e Downloads                                                              1
+106010108003QUANTIDADE_CHAR                                                                 20051999999999       1
+106010108004AMOUNT_CHAR                                                                     20041999999999       1
+106010109001NUMERADOR_SUMARIZADA                                                            20031099999999       1
+106010109002Oi Vídeo                                                                                             1
+106010109003QUANTIDADE_CHAR                                                                 20051999999999       1
+106010109004AMOUNT_CHAR                                                                     20041999999999       1
+106010109301NUMERADOR_SUMARIZADA                                                            20031099999999       1
+106010109302Assinatura de conteúdos WAP                                                                          1
+106010109303QUANTIDADE_CHAR                                                                 20051999999999       1
+106010109304AMOUNT_CHAR                                                                     20041999999999       1
+106010109501NUMERADOR_SUMARIZADA                                                            20031099999999       1
+106010109502Consulta Telecheque                                                                                  1
+106010109503QUANTIDADE_CHAR                                                                 20051999999999       1
+106010109504AMOUNT_CHAR                                                                     20041999999999       1
+106010109701NUMERADOR_SUMARIZADA                                                            20031099999999       1
+106010109702Oi TV Móvel                                                                                          1
+106010109703QUANTIDADE_CHAR                                                                 20051999999999       1
+106010109704AMOUNT_CHAR                                                                     20041999999999       1
+106010201001NUMERADOR_SUMARIZADA                                                            20031099999999       1
+106010201002Total de Mensagens fora da área Oi                                                                   1
+106010201003QUANTIDADE_CHAR                                                                 20051999999999       1
+106010201004AMOUNT_CHAR                                                                     20041999999999       1
+106010206001NUMERADOR_SUMARIZADA                                                            20031099999999       1
+106010206002Oi Multimídia                                                                                        1
+106010206003QUANTIDADE_CHAR                                                                 20051999999999       1
+106010206004AMOUNT_CHAR                                                                     20041999999999       1
+106010209001NUMERADOR_SUMARIZADA                                                            20031099999999       1
+106010209002Oi Vídeo                                                                                             1
+106010209003QUANTIDADE_CHAR                                                                 20051999999999       1
+106010209004AMOUNT_CHAR                                                                     20041999999999       1
+106010301001NUMERADOR_SUMARIZADA                                                            20031099999999       1
+106010301002Total de Mensagens em viagem no Exterior                                                             1
+106010301003QUANTIDADE_CHAR                                                                 20051999999999       1
+106010301004AMOUNT_CHAR                                                                     20041999999999       1
+106010306001NUMERADOR_SUMARIZADA                                                            20031099999999       1
+106010306002Oi Multimídia                                                                                        1
+106010306003QUANTIDADE_CHAR                                                                 20051999999999       1
+106010306004AMOUNT_CHAR                                                                     20041999999999       1
+106010309001NUMERADOR_SUMARIZADA                                                            20031099999999       1
+106010309002Oi Vídeo                                                                                             1
+106010309003QUANTIDADE_CHAR                                                                 20051999999999       1
+106010309004AMOUNT_CHAR                                                                     20041999999999       1
+106020101001NUMERADOR_SUMARIZADA                                                            20031099999999       1
+106020101002Oi Dados Avulso                                                                                      1
+106020101003QUANTIDADE_CHAR                                                                 20051999999999       1
+106020101004AMOUNT_CHAR                                                                     20041999999999       1
+106020102003QUANTIDADE_CHAR                                                                 20051999999999       1
+106020102004AMOUNT_CHAR                                                                     20041999999999       1
+106020102001Duração Total:                                                                                       2
+106020102002VOLUME_CHAR                                                                     200720NULL           2
+106020103003QUANTIDADE_CHAR                                                                 20051999999999       1
+106020103004AMOUNT_CHAR                                                                     20041999999999       1
+106020103001Duração Total:                                                                                       2
+106020103002DURACAO_CHAR                                                                    200619HH:MI:SS       2
+106020104003QUANTIDADE_CHAR                                                                 20051999999999       1
+106020104004AMOUNT_CHAR                                                                     20041999999999       1
+106020104001Duração Total:                                                                                       2
+106020104002VOLUME_CHAR                                                                     200720NULL           2
+106020201001NUMERADOR_SUMARIZADA                                                            20031099999999       1
+106020201002Oi Dados Avulso                                                                                      1
+106020201003QUANTIDADE_CHAR                                                                 20051999999999       1
+106020201004AMOUNT_CHAR                                                                     20041999999999       1
+106020202003QUANTIDADE_CHAR                                                                 20051999999999       1
+106020202004AMOUNT_CHAR                                                                     20041999999999       1
+106020202001Duração Total:                                                                                       2
+106020202002VOLUME_CHAR                                                                     200720NULL           2
+106020203003QUANTIDADE_CHAR                                                                 20051999999999       1
+106020203004AMOUNT_CHAR                                                                     20041999999999       1
+106020203001Duração Total:                                                                                       2
+106020203002DURACAO_CHAR                                                                    200619HH:MI:SS       2
+106020204003QUANTIDADE_CHAR                                                                 20051999999999       1
+106020204004AMOUNT_CHAR                                                                     20041999999999       1
+106020204001Duração Total:                                                                                       2
+106020204002VOLUME_CHAR                                                                     200720NULL           2
+106020301001NUMERADOR_SUMARIZADA                                                            20031099999999       1
+106020301002Oi Dados Avulso                                                                                      1
+106020301003QUANTIDADE_CHAR                                                                 20051999999999       1
+106020301004AMOUNT_CHAR                                                                     20041999999999       1
+106020302003QUANTIDADE_CHAR                                                                 20051999999999       1
+106020302004AMOUNT_CHAR                                                                     20041999999999       1
+106020302001Duração Total:                                                                                       2
+106020302002VOLUME_CHAR                                                                     200720NULL           2
+106020303003QUANTIDADE_CHAR                                                                 20051999999999       1
+106020303004AMOUNT_CHAR                                                                     20041999999999       1
+106020303001Duração Total:                                                                                       2
+106020303002DURACAO_CHAR                                                                    200619HH:MI:SS       2
+106020304003QUANTIDADE_CHAR                                                                 20051999999999       1
+106020304004AMOUNT_CHAR                                                                     20041999999999       1
+106020304001Duração Total:                                                                                       2
+106020304002VOLUME_CHAR                                                                     200720NULL           2
+106020401001NUMERADOR_SUMARIZADA                                                            20031099999999       1
+106020401002Oi Dados Avulso                                                                                      1
+106020401003QUANTIDADE_CHAR                                                                 20051999999999       1
+106020401004AMOUNT_CHAR                                                                     20041999999999       1
+106020402003QUANTIDADE_CHAR                                                                 20051999999999       1
+106020402004AMOUNT_CHAR                                                                     20041999999999       1
+106020402001Duração Total:                                                                                       2
+106020402002VOLUME_CHAR                                                                     200720NULL           2
+106020403002DURACAO_CHAR                                                                    200619HH:MI:SS       1
+106020403003QUANTIDADE_CHAR                                                                 20051999999999       1
+106020403004AMOUNT_CHAR                                                                     20041999999999       1
+106020403001Duração Total:                                                                                       2
+106020403002DURACAO_CHAR                                                                    200619HH:MI:SS       2
+106020404004AMOUNT_CHAR                                                                     20041999999999       1
+106020404001Duração Total:                                                                                       2
+106020404002VOLUME_CHAR                                                                     200720NULL           2
+107000000002AMOUNT_CHAR                                                                     20041999999999       3
+107000000001Total Débitos Diversos                                                                               3
+108010000001Total Ajustes                                                                                        3
+108010000002AMOUNT_CHAR                                                                     20041999999999       3
+108500000001Total de bônus Programa de Relacionamento                                                            3
+108500000002AMOUNT_CHAR                                                                     20041999999999       3
+109000000001Total Descontos: tudo o que você ganhou                                                              3
+109000000002AMOUNT_CHAR                                                                     20041999999999       3
+110000000001Total a pagar:                                                                                       3
+110000000002AMOUNT_CHAR                                                                     20041999999999       3
+130000000001Total a pagar do seu Oi:                                                                             3
+130000000002EXTERNAL_ID                                                                     200848NULL           3
+130000000003AMOUNT_CHAR                                                                     20041999999999       3
+141000000001Valor a Pagar                                                                                        3
+141000000002AMOUNT_CHAR                                                                     80021999999999       3
+141010000001Total de Serviços Oi                                                                                 3
+141010000002AMOUNT_CHAR                                                                     80021999999999       3
+141020000001Total de Serviços de Terceiros                                                                       3
+141020000002AMOUNT_CHAR                                                                     80021999999999       3
+141030000001Total de Créditos                                                                                    3
+141030000002AMOUNT_CHAR                                                                     80021999999999       3
+141040000001Total de Outros Valores                                                                              3
+141040000002AMOUNT_CHAR                                                                     80021999999999       3
+141050000001Total de serviços de Telecomunicações(*)                                                             3
+141050000002AMOUNT_CHAR                                                                     80021999999999       3
+141060000001Total de serviços de Telecomunicação (*)                                                             3
+141060000002AMOUNT_CHAR                                                                     80021999999999       3
+151000000001Valor a Pagar                                                                                        3
+151000000002AMOUNT_CHAR                                                                     80021999999999       3
+151010000001Total De Serviços Oi Fixo                                                                            3
+151010000002AMOUNT_CHAR                                                                     80021999999999       3
+151020000001Total De Serviços De Terceiros                                                                       3
+151020000002AMOUNT_CHAR                                                                     80021999999999       3
+151030000001Total De Créditos                                                                                    3
+151030000002AMOUNT_CHAR                                                                     80021999999999       3
+151040000001Total De Outros Valores                                                                              3
+151040000002AMOUNT_CHAR                                                                     80021999999999       3
+160000000001Total Seu Plano Oi                                                                                    
+160000000002AMOUNT_CHAR                                                                     20041999999999        
+161205500001Total                                                                                                3
+161205500002AMOUNT_CHAR                                                                     20041999999999       3
+161210000001NUMERADOR_DETALHADA                                                             20021099999999       3
+161210000002Total                                                                                                3
+161210000003AMOUNT_CHAR                                                                     20041999999999       3
+161220000001Total                                                                                                3
+161220000002AMOUNT_CHAR                                                                     20041999999999       3
+161230000001NUMERADOR_DETALHADA                                                             20021099999999       3
+161230000002Total                                                                                                3
+161230000003AMOUNT_CHAR                                                                     20041999999999       3
+161231000001NUMERADOR_DETALHADA                                                             20021099999999       3
+161231000002Total                                                                                                3
+161231000003AMOUNT_CHAR                                                                     20041999999999       3
+161232000001NUMERADOR_DETALHADA                                                             20021099999999       3
+161232000002Total                                                                                                3
+161232000003AMOUNT_CHAR                                                                     20041999999999       3
+161233000001NUMERADOR_DETALHADA                                                             20021099999999       3
+161233000002Total                                                                                                3
+161233000003AMOUNT_CHAR                                                                     20041999999999       3
+161234000001NUMERADOR_DETALHADA                                                             20021099999999       3
+161234000002Total                                                                                                3
+161235000001NUMERADOR_DETALHADA                                                             20021099999999       3
+161235000002Total                                                                                                3
+161235000003AMOUNT_CHAR                                                                     20041999999999       3
+161236000001NUMERADOR_DETALHADA                                                             20021099999999       3
+161236000002Total                                                                                                3
+161236000003AMOUNT_CHAR                                                                     20041999999999       3
+161237000001NUMERADOR_DETALHADA                                                             20021099999999       3
+161237000002Total                                                                                                3
+161237000003AMOUNT_CHAR                                                                     20041999999999       3
+161238000001NUMERADOR_DETALHADA                                                             20021099999999       3
+161238000002Total                                                                                                3
+161238000003AMOUNT_CHAR                                                                     20041999999999       3
+161240000001NUMERADOR_DETALHADA                                                             20021099999999       3
+161240000002Total                                                                                                3
+161240000003AMOUNT_CHAR                                                                     20041999999999       3
+161241000001NUMERADOR_DETALHADA                                                             20021099999999       3
+161241000002Total                                                                                                3
+161241000003AMOUNT_CHAR                                                                     20041999999999       3
+161242000001NUMERADOR_DETALHADA                                                             20021099999999       3
+161242000002Total                                                                                                3
+161242000003AMOUNT_CHAR                                                                     20041999999999       3
+161243000001NUMERADOR_DETALHADA                                                             20021099999999       3
+161243000002Total                                                                                                3
+161243000003AMOUNT_CHAR                                                                     20041999999999       3
+170000000001Valor a pagar:                                                                                       3
+170000000002AMOUNT_CHAR                                                                     80021999999999       3
+171000000001Total Oi                                                                                             3
+171000000002AMOUNT_CHAR                                                                     80021999999999       3
+172000000001Total Oi Fixo                                                                                        3
+172000000002AMOUNT_CHAR                                                                     80021999999999       3
+180000000001Valor a pagar:                                                                                       3
+180000000002AMOUNT_CHAR                                                                     80021999999999       3
+181000000001Total Oi Fixo                                                                                        3
+181000000002AMOUNT_CHAR                                                                     80021999999999       3
+200000000001Total                                                                                                3
+200000000002AMOUNT_CHAR                                                                     20041999999999       3
+220000000001AMOUNT_CHAR                                                                     20041999999999       3
+230000000002AMOUNT_CHAR                                                                     20041999999999       3
+230000000001Total Débitos Diversos Conta Oi                                                                      3
+241000000001Total Ajustes Conta Oi                                                                               3
+241000000002AMOUNT_CHAR                                                                     20041999999999       3
+250000000001Total Descontos Conta Oi                                                                             3
+250000000002AMOUNT_CHAR                                                                     20041999999999       3
+300000000001AMOUNT_CHAR                                                                     20041999999999       3
+400000000001AMOUNT_CHAR                                                                     20041999999999       3
+500000000001AMOUNT_CHAR                                                                     20041999999999       3
+600000000001AMOUNT_CHAR                                                                     20041999999999       3
+700000000001Fim Do Demonstrativo Oi Fixo:                                                                        3
+700000000002EXTERNAL_ID                                                                     200848NULL           3
+700000000003AMOUNT_CHAR                                                                     20041999999999       3
+701005100001NUMERADOR_DETALHADA                                                             20021099999999       3
+701005100002Total                                                                                                3
+701005100003AMOUNT_CHAR                                                                     20041999999999       3
+701010100001NUMERADOR_DETALHADA                                                             20021099999999       3
+701010100002Total                                                                                                3
+701010100003AMOUNT_CHAR                                                                     20041999999999       3
+701020100001NUMERADOR_DETALHADA                                                             20021099999999       3
+701020100002Total                                                                                                3
+701020100003AMOUNT_CHAR                                                                     20041999999999       3
+702500000001Tudo que você usou em Ligações Locais                                                                1
+702500000002AMOUNT_CHAR                                                                     20041999999999       1
+703000000001Tudo o Que Você Usou em Ligações Locais para Fixo                                                    2
+703000000002AMOUNT_CHAR                                                                     20041999999999       2
+703010100001Total das Ligações Franqueadas                                                                       2
+703010100002VOLUME_CHAR                                                                     200720NULL           2
+703010100003AMOUNT_CHAR                                                                     20041999999999       2
+703010101001Duração Total                                                                                        2
+703010101002VOLUME_CHAR                                                                     200720NULL           2
+703010102001Duração Total                                                                                        2
+703010102002VOLUME_CHAR                                                                     200720NULL           2
+703010200001Total Das Ligações Alem Da Franquia                                                                  2
+703010200002VOLUME_CHAR                                                                     200720NULL           2
+703010200003AMOUNT_CHAR                                                                     20041999999999       2
+703010201001Duração Total                                                                                        2
+703010201002VOLUME_CHAR                                                                     200720NULL           2
+703010202001Duração Total                                                                                        2
+703010202002VOLUME_CHAR                                                                     200720NULL           2
+704000000001Tudo o que você usou em Ligações Locais para Celular                                                 3
+704000000002AMOUNT_CHAR                                                                     20041999999999       3
+704010100001Duração Total                                                                                        3
+704010100002VOLUME_CHAR                                                                     200720NULL           3
+704010200001Duração Total                                                                                        3
+704010200002VOLUME_CHAR                                                                     200720NULL           3
+705000000001Tudo que você usou em ligações de longa distância usando 31                                          3
+705000000002AMOUNT_CHAR                                                                     20041999999999       3
+705010100001Duração Total                                                                                        3
+705010100002VOLUME_CHAR                                                                     200720NULL           3
+705010200001Duração Total                                                                                        3
+705010200002VOLUME_CHAR                                                                     200720NULL           3
+705010300001Duração Total                                                                                        3
+705010300002VOLUME_CHAR                                                                     200720NULL           3
+705010400001Duração Total                                                                                        3
+705010400002VOLUME_CHAR                                                                     200720NULL           3
+705010500001Duração Total                                                                                        3
+705010500002VOLUME_CHAR                                                                     200720NULL           3
+705010600001Duração Total                                                                                        3
+705010600002VOLUME_CHAR                                                                     200720NULL           3
+706000000001Tudo o que você usou em ligações de longa distância de outras operadoras                             3
+706000000002AMOUNT_CHAR                                                                     20041999999999       3
+706010101001Total Intelig                                                                                        3
+706010101002AMOUNT_CHAR                                                                     20041999999999       3
+706010201001Total Embratel                                                                                       3
+706010201002AMOUNT_CHAR                                                                     20041999999999       3
+706010301001Total CTBC                                                                                           3
+706010301002AMOUNT_CHAR                                                                     20041999999999       3
+706010401001Total IP Corp Telecom                                                                                3
+706010401002AMOUNT_CHAR                                                                     20041999999999       3
+706010501001Total GVT                                                                                            3
+706010501002AMOUNT_CHAR                                                                     20041999999999       3
+706010601001Total Telefónica                                                                                     3
+706010601002AMOUNT_CHAR                                                                     20041999999999       3
+706010701001Total TIM                                                                                            3
+706010701002AMOUNT_CHAR                                                                     20041999999999       3
+706010801001Total Brasil Telecom                                                                                 3
+706010801002AMOUNT_CHAR                                                                     20041999999999       3
+707000000001Tudo o que você usou em ligações para Números Especiais de outras operadoras                         3
+707000000002AMOUNT_CHAR                                                                     20041999999999       3
+708000000001Total de Serviços de Terceiros                                                                       3
+708000000002AMOUNT_CHAR                                                                     20041999999999       3
+709000000001Tudo que você usou em Outros Serviços                                                                3
+709000000002AMOUNT_CHAR                                                                     20041999999999       3
+709100000001Total de Descontos                                                                                   3
+709100000002AMOUNT_CHAR                                                                     20041999999999       3
+710000000001Total a pagar:                                                                                       3
+710000000002AMOUNT_CHAR                                                                     20041999999999       3
+721000000001NUMERADOR_DETALHADA                                                             20021099999999       3
+721000000002Total                                                                                                3
+721000000003AMOUNT_CHAR                                                                     20041999999999       3
+730000000001Total a pagar do seu Oi Fixo:                                                                        3
+730000000002AMOUNT_CHAR                                                                     20041999999999       3
+741000000001Total de Descontos                                                                                   3
+741000000002AMOUNT_CHAR                                                                     20041999999999       3
+742000000001                                                                                                     3
+742000000002AMOUNT_CHAR                                                                     20041999999999       3
+743000000001Total                                                                                                3
+743000000002AMOUNT_CHAR                                                                     20041999999999       3
+744000000001Total Créditos por interrupção                                                                       3
+744000000002AMOUNT_CHAR                                                                     20041999999999       3
+750000000001Total Débitos Diversos Conta Oi                                                                      3
+750000000002AMOUNT_CHAR                                                                     20041999999999       3
+770000000001AMOUNT_CHAR                                                                     20041999999999       3
+780000000001AMOUNT_CHAR                                                                     20041999999999       3
+981200000001Total                                                                                                3
+981200000002AMOUNT_CHAR                                                                     80021999999999       3
+981300000001Total                                                                                                3
+981300000002AMOUNT_CHAR                                                                     80021999999999       3
+991000000001Total Nota Fiscal                                                                                    3
+991000000002AMOUNT_CHAR                                                                     90021999999999       3

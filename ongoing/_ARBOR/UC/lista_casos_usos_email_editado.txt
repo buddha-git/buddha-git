@@ -1,0 +1,342 @@
+
+
+
+
+
+
+
+Aprovisionar Componente Redução de franquia Oi Fixo Controle 120.doc
+Aprovisionar Componente Redução de franquia Oi Fixo Controle 200.doc
+Aprovisionar Componente Redução de franquia Oi Fixo Controle 330.doc
+Aprovisionar Componente Redução de franquia Oi Fixo Controle 400.doc
+Aprovisionar Componente Redução de franquia Oi Fixo Controle 660.doc
+Aprovisionar Componente Redução de franquia Oi Fixo Controle 80.doc
+Gerar livros fiscais UC_ARB_8081_1_v0.6.doc
+lista_casos_usos_email.txt
+UC - Abonar Faturas em Massa.doc
+UC - Abono em Massa.doc
+UC - Ajustar CDRs de Write-Off por Emissao de 2 Via Desmembrada.doc
+UC - Ajustar CDRs de Write-Off.doc
+UC - Ajustar CDRs Write-Off .doc
+UC - Aprovisionar Componente Aumento de franquia Oi Fixo Controle  200.doc
+UC - Aprovisionar Componente Aumento de franquia Oi Fixo Controle 120.doc
+UC - Aprovisionar Componente Aumento de franquia Oi Fixo Controle 330.doc
+UC - Aprovisionar Componente Aumento de franquia Oi Fixo Controle 400.doc
+UC - Aprovisionar Componente Aumento de franquia Oi Fixo Controle 660.doc
+UC - Aprovisionar Componente Aumento de franquia Oi Fixo Controle 80.doc
+UC - Aprovisionar Componente Caixa Postal para a WLL.doc
+UC - Aprovisionar Componente Chamada em Espera para a WLL.doc
+UC - Aprovisionar Componente Conferˆncia para a WLL.doc
+UC - Aprovisionar Componente de Desligamento a pedido do cliente.doc
+UC - Aprovisionar Componente de Transferˆncia definitiva de assinatura.doc
+UC - Aprovisionar Componente de Transferˆncia tempor ria de assinatura.doc
+UC - Aprovisionar Componente franquia AICE.doc
+UC - Aprovisionar Componente franquia Oi Fixo Controle 120.doc
+UC - Aprovisionar Componente franquia Oi Fixo Controle 200.doc
+UC - Aprovisionar Componente franquia Oi Fixo Controle 330.doc
+UC - Aprovisionar Componente franquia Oi Fixo Controle 400.doc
+UC - Aprovisionar Componente franquia Oi Fixo Controle 660.doc
+UC - Aprovisionar Componente franquia Oi Fixo Controle 80.doc
+UC - Aprovisionar Componente Franquia Plano AICE.doc
+UC - Aprovisionar Componente Franquia Plano Oi Controle 120.doc
+UC - Aprovisionar Componente Franquia Plano Oi Controle 200.doc
+UC - Aprovisionar Componente Franquia Plano Oi Controle 330.doc
+UC - Aprovisionar Componente Franquia Plano Oi Controle 400.doc
+UC - Aprovisionar Componente Franquia Plano Oi Controle 660.doc
+UC - Aprovisionar Componente Franquia Plano Oi Controle 80.doc
+UC - Aprovisionar Componente Identificador de Chamadas para a WLL.doc
+UC - Aprovisionar Componente Siga-me para a WLL.doc
+UC - Aprovisionar Componente Taxa de Habilitação de Serviço WLL.doc
+UC - Aprovisionar Componente Taxa de Habilitação do Serviço WLL.doc
+UC - Aprovisionar Componente Taxa de Mudan‡a de Endere‡o.doc
+UC - Aprovisionar Componente Taxa de Transferˆncia de Titularidade.doc
+UC - Aprovisionar Componente Taxa de Troca de N£mero.doc
+UC - Aprovisionar componente via API-TS.doc
+UC - Aprovisionar Componente WLL.doc
+UC - Aprovisionar Pacote 31 FRANQUIA 10 - 31FRANQ10.doc
+UC - Aprovisionar Pacote 31 FRANQUIA 10 - 3MDEG10LDN.doc
+UC - Aprovisionar Pacote 31 FRANQUIA 10 - ADFRANQ10.doc
+UC - Aprovisionar Pacote 31 FRANQUIA 200 - ADFRANQ200.doc
+UC - Aprovisionar Pacote 31 FRANQUIA 300 - ADFRANQ300.doc
+UC - Aprovisionar Pacote 31 SIMP EMPRESARIAL 5000 MIN - 31SPEMP5K.doc
+UC - Aprovisionar Pacote 31 SIMPLIFICADO - 100LDN31S.doc
+UC - Aprovisionar Pacote 31 SIMPLIFICADO - 31FRANQ31.doc
+UC - Aprovisionar Pacote 31 SIMPLIFICADO - 31FRANQ62.doc
+UC - Aprovisionar Pacote 31 SIMPLIFICADO - 31FRANQ93.doc
+UC - Aprovisionar Pacote 31 SIMPLIFICADO - 31LDN31SIM.doc
+UC - Aprovisionar Pacote 31 SIMPLIFICADO - 62LDN31SIM.doc
+UC - Aprovisionar Pacote 31 SIMPLIFICADO - 93LDN31SIM.doc
+UC - Aprovisionar Pacote 31 SIMPLIFICADO CELULAR - 31LDFM10.doc
+UC - Aprovisionar Pacote 31 SIMPLIFICADO CELULAR - 31LDFM31.doc
+UC - Aprovisionar Pacote 31 SIMPLIFICADO DDI - SPFDDI15V2.doc
+UC - Aprovisionar Pacote 31 SIMPLIFICADO DDI – SPFDDI31V2.doc
+UC - Aprovisionar Pacote 31 SIMPLIFICADO DDI – SPFDDI60V2.doc
+UC - Aprovisionar Pacote 31 SIMPLIFICADO EMPRESARIAL  - 31SPEMP300.doc
+UC - Aprovisionar Pacote 31 SIMPLIFICADO EMPRESARIAL  - 31SPEMP50.doc
+UC - Aprovisionar Pacote 31 SIMPLIFICADO EMPRESARIAL  - 31SPEMP500.doc
+UC - Aprovisionar Pacote 31 SIMPLIFICADO EMPRESARIAL - 31SPEMP155.doc
+UC - Aprovisionar Pacote 31 SIMPLIFICADO EMPRESARIAL - 31SPEMP1K.doc
+UC - Aprovisionar Pacote 31 SIMPLIFICADO EMPRESARIAL - 31SPEMP3K.doc
+UC - Aprovisionar Pacote AICE.doc
+UC - Aprovisionar Pacote BONUS 230 MIN 4 MESES - BON230M4.doc
+UC - Aprovisionar Pacote BONUS 230 MIN 6 MESES - BON230M6.doc
+UC - Aprovisionar Pacote BONUS 230 MINUTOS - RET230MIN.doc
+UC - Aprovisionar Pacote BONUS 350 MIN 4 MESES – BON350M4.doc
+UC - Aprovisionar Pacote BONUS 350 MIN 6 MESES - BON350M6.doc
+UC - Aprovisionar Pacote BONUS 350 MINUTOS – RET350MIN.doc
+UC - Aprovisionar Pacote BONUS 40 MINUTOS NO PLANO ECON - PECO40M06.doc
+UC - Aprovisionar Pacote BONUS 500 MIN 4 MESES – BON500M4.doc
+UC - Aprovisionar Pacote BONUS 500 MIN 6 MESES – BON500M6.doc
+UC - Aprovisionar Pacote BONUS 500 MINUTOS – RET500MIN.doc
+UC - Aprovisionar Pacote BONUS 60 MIN LOC F-F 10 MESES - COB60LOC10.doc
+UC - Aprovisionar Pacote BONUS 60 MIN LOC F-F 6 MESES - COB60LOC06.doc
+UC - Aprovisionar Pacote BONUS DE 140 MIN POR 4 MESES - PECO140M4M.doc
+UC - Aprovisionar Pacote BONUS DE 40 MIN POR 12 MESES - PECO40M12.doc
+UC - Aprovisionar Pacote BONUS FIXO LOCAL ILIMITADO 10000 - ERICFXIL.doc
+UC - Aprovisionar Pacote BONUS R$45 LDN 12 MESES - RETR45LD12.doc
+UC - Aprovisionar Pacote BONUS R$45 LDN 6 MESES - RETRS45LD6.doc
+UC - Aprovisionar Pacote B sico NRES.doc
+UC - Aprovisionar Pacote B sico RES.doc
+UC - Aprovisionar Pacote BÔNUS DE 1000 MINUTOS EM LIGAÇiES LOCAIS FIXO FIXO POR 6 MESES  - BON1000M6.doc
+UC - Aprovisionar Pacote BÔNUS PL ECONOMIA - ECONO RET2.doc
+UC - Aprovisionar Pacote BÔNUS PL ECONOMIA - ECONO RET3.doc
+UC - Aprovisionar Pacote B“nus de X minutos para Oi Terminal WLL por X Meses.doc
+UC - Aprovisionar Pacote B“nus de X Reais para Oi Terminal WLL por X Meses.doc
+UC - Aprovisionar Pacote Caixa Postal para a WLL Valorado.doc
+UC - Aprovisionar Pacote Chamada em Espera para a WLL Valorado.doc
+UC - Aprovisionar Pacote Conferˆncia para a WLL Valorado.doc
+UC - Aprovisionar Pacote de Desconto de X Reais em Tipos de Ligações.doc
+UC - Aprovisionar Pacote de Desconto de X Reais na Assinatura do Plano.doc
+UC - Aprovisionar Pacote de Desconto de X Reais na Cobranca Não Recorrente.doc
+UC - Aprovisionar Pacote de Desconto de X% em Tipos de Ligações.doc
+UC - Aprovisionar Pacote de Desconto de X% na Assinatura do Plano.doc
+UC - Aprovisionar Pacote de Desconto FECOP.doc
+UC - Aprovisionar Pacote DESCONTO DE R$ 53 EM LIGAÇiES LOCAIS. - BOFF$53-1M.doc
+UC - Aprovisionar Pacote DESCONTO DE R$ 75 EM LIGAçõES LOCAIS. - BOFF$75-1M.doc
+UC - Aprovisionar Pacote DESCONTO DE R$150 EM LIGAÇiES LOCAIS - BOFF$1501M.doc
+UC - Aprovisionar Pacote DESCONTO DE R$35 EM LIGAÇiES LOCAIS. - BOFF$35-1M.doc
+UC - Aprovisionar Pacote DESCONTO R$ 750 EM LIGACOES LOCAIS FIXO FIXO - OfilimNRE.doc
+UC - Aprovisionar Pacote DESCONTO R$12 FF LOCAL 12 MESES - RETR12LC12.doc
+UC - Aprovisionar Pacote DESCONTO R$12 FF LOCAL 6 MESES - RETR12LOC6.doc
+UC - Aprovisionar Pacote DESCONTO R$25 FF LOCAL 12 MESES - RETR25LC12.doc
+UC - Aprovisionar Pacote DESCONTO R$25 FF LOCAL 6 MESES - RETR25LOC6.doc
+UC - Aprovisionar Pacote DESCONTO R$27 LOCAL 12 MESES – RETR27LC12.doc
+UC - Aprovisionar Pacote DESCONTO R$28 FF LOCAL 12 MESES – RETR28LC12.doc
+UC - Aprovisionar Pacote DESCONTO R$47 EM LIGAÇiES LOCAIS FIXO-FIXO - BONUS R$47.doc
+UC - Aprovisionar Pacote Economia.doc
+UC - Aprovisionar Pacote Fale 1000 NRES.doc
+UC - Aprovisionar Pacote Fale 1000 RES.doc
+UC - Aprovisionar Pacote Fale 230 NRES.doc
+UC - Aprovisionar Pacote Fale 230 RES.doc
+UC - Aprovisionar Pacote Fale 350 NRES.doc
+UC - Aprovisionar Pacote Fale 350 RES.doc
+UC - Aprovisionar Pacote Fale 500 NRES.doc
+UC - Aprovisionar Pacote Fale 500 RES.doc
+UC - Aprovisionar Pacote Fale Ilimitado Residencial.doc
+UC - Aprovisionar Pacote Fale Ilimitado.doc
+UC - Aprovisionar Pacote Identificador de Chamadas para a WLL Valorado.doc
+UC - Aprovisionar Pacote Minha Linha NRES.doc
+UC - Aprovisionar Pacote Minha Linha RES.doc
+UC - Aprovisionar Pacote Oferta Alternativo 460 RES.doc
+UC - Aprovisionar Pacote Oi Fixo Controle 120.doc
+UC - Aprovisionar Pacote Oi Fixo Controle 200.doc
+UC - Aprovisionar Pacote Oi Fixo Controle 330.doc
+UC - Aprovisionar Pacote Oi Fixo Controle 400.doc
+UC - Aprovisionar Pacote Oi Fixo Controle 660.doc
+UC - Aprovisionar Pacote Oi Fixo Controle 80.doc
+UC - Aprovisionar Pacote PASOO Alternativo Não Residencial Voz.doc
+UC - Aprovisionar Pacote PASOO Não Residencial.doc
+UC - Aprovisionar Pacote PL DISTANC CERTA 31 - DISTCERT31.doc
+UC - Aprovisionar Pacote Plano Alternativo 460 NRES.doc
+UC - Aprovisionar Pacote Plano Alternativo 460 RES.doc
+UC - Aprovisionar Pacote Plano Bloqueio Retenção  NRES.doc
+UC - Aprovisionar Pacote Plano Bloqueio Retenção  RES.doc
+UC - Aprovisionar Pacote Plano Bloqueio Tempor rio NRES.doc
+UC - Aprovisionar Pacote Plano Bloqueio Tempor rio RES.doc
+UC - Aprovisionar Pacote Plano Economia.doc
+UC - Aprovisionar Pacote Plano Oferta Obrigat¢ria NRES - PASOO.doc
+UC - Aprovisionar Pacote Plano Oferta Obrigat¢ria RES.doc
+UC - Aprovisionar Pacote PROM 31 FRANQUIA 100 - 31FRANQPL2.doc
+UC - Aprovisionar Pacote Servi‡os Opcionais Valorados.doc
+UC - Aprovisionar Pacote Siga-me para a WLL Valorado.doc
+UC - Aprovisionar pacote WLL.doc
+UC - Balancear Fatura.doc
+UC - Cadastrar clientes WLL em DACC.doc
+UC - Cancelar DACC de clientes WLL.doc
+UC - Consultar dados de fatura em aberto via Casa Lot‚rica.doc
+UC - Enviar controle de monitoramento dos produtos Oi  Controle.doc
+UC - Enviar dados contabilizados para interface SAP_BW.doc
+UC - Enviar faturas WLL em DACC.doc
+UC - Enviar instƒncias de servi‡o com plano Oi Controle para recarga na BLL.doc
+UC - Enviar os CDR's da Oi Fixa para o RAID FR.doc
+UC - Enviar os CDR’s da Oi Fixa para o RAID FR.doc
+UC - Executar FEB_v2.doc
+UC - Extrair dados a faturar.doc
+UC - Extrair dados de Componentes do Arbor.doc
+UC - Extrair dados de Contas do Arbor.doc
+UC - Extrair dados de Instƒncias de Servi‡o do Arbor.doc
+UC - Extrair dados de Pacotes do Arbor.doc
+UC - Extrair Dados para Proforma.doc
+UC - Extrair Faturas SMP11.doc
+UC - Gerar arquivo com CDRs de write-off para o repasse.doc
+UC - Gerar arquivo com CDRs de Write-Off por Emissão de 2 Via Desmembrada para o Repasse.doc
+UC - Gerar fatura ajustada e carta para o cliente.doc
+UC - Gerar interface de Arrecadação SCA.doc
+UC - Gerar interface FCL-4.doc
+UC - Gerar interface GRIF.doc
+UC - Gerar livros fiscais.doc
+UC - Identificar CDRs de Write-Off por Emissao de  2 Via Desmembrada.doc
+UC - Identificar CDRs de Write-Off.doc
+UC - Identificar CDRs Write-Off.doc
+UC - Manter informações de DACC enviadas ao Sistema Externo.doc
+UC - Manter informações de DACC recebidas do Sistema Externo.doc
+UC - Plano Bloqueio Retenção NRES.doc
+UC - Plano Bloqueio Retenção RES.doc
+UC - Plano Bloqueio Tempor rio NRES.doc
+UC - Plano Bloqueio Tempor rio RES.doc
+UC - Possibilitar o envio de feedfiles de clientes com faturas em Braile para a Montreal.doc
+UC - Processar OS de faturamento.doc
+UC - Realizar pagamento-estorno de fatura via Casa Lot‚rica.doc
+UC - Receber situação da recarga de instâncias de serviço com plano  Oi Controle na BLL.doc
+UC - Suspensão de Franquias Pré-Faturamento.doc
+UC - Suspensão Franquias Pré.doc
+UC_ ARB_31968_200 - Aprovisionar desconto 100% na assinatura.doc
+UC_ ARB_31968_28 - Aprovisionar pacote WLL.doc
+UC_ ARB_7950_1 - Aprovisionar pacote.doc
+UC_ARB31968_200 - Balancear Faturas para carga na Base de Atendimento ao Faturamento.doc
+UC_ARB31968_201 - Carregar faturas na Base de Atendimento ao Faturamento.doc
+UC_ARB31968_202 - Selecionar Faturas atualizadas no Arbor.doc
+UC_ARB31968_203 - Atualizar Faturas na Base de Atendimento ao Faturamento.doc
+UC_ARB31968_204 - Enviar novas faturas para a Base de Atendimento ao Faturamento.doc
+UC_ARB31968_206 - Balancear faturas para emissão de 2ª Via Reimpressão.doc
+UC_ARB31968_207 - Realizar prorrogação de vencimento de faturas.doc
+UC_ARB31968_208 - Aprovisionar ajustes de contestação.doc
+UC_ARB3446_4_Enviar Novas Faturas_v4.1.doc
+UC_ARB3446_5_Enviar Faturas Atualizadas_v2.4.doc
+UC_ARB6859_1 - Balancear Fatura_v2.0.doc
+UC_ARB_10243_1 - Aprovisionar pacote para Promoção Oi Conta Total 4 nível conta_v1.3.doc
+UC_ARB_10243_4 Aprovisionar pacote para Promoção Oi Conta Total Profissional 3 nível conta_v1.5.doc
+UC_ARB_10246_2 Aprovisionar pacote para Promoção Oi Conta Total Profissional 1 nível conta_v1.3.doc
+UC_ARB_10246_3 Aprovisionar pacote para Promoção Oi Conta Total Profissional 2 nível conta_v1.4.doc
+UC_ARB_16976_1 - Aprovisionar pacote para Promoção Oi Conta Total Light nível conta_v0.3.doc
+UC_ARB_16976_1_Aprovisionar pacote Oi Conta Total 50 N¡vel Conta.doc
+UC_ARB_16976_2_Aprovisionar pacote Oi Conta Total 50 N¡vel Instancia_v0.2.doc
+UC_ARB_16976_3 Aprovisionar Componente Taxa de Troca de N£mero Oi Conta Total 50_v0.1.doc
+UC_ARB_16976_4 Aprovisionar Componente Taxa de Escolha de N£mero Prata Oi Conta Total 50_v0.1.doc
+UC_ARB_16976_5 Aprovisionar Componente Taxa de Escolha de N£mero Ouro Oi Conta Total 50_v0.1.doc
+UC_ARB_16976_6 Aprovisionar Componente Oi 60 – Habilitação de Número Oi Dez +_v0.1.doc
+UC_ARB_19376_04 – Formatador de arquivos de produtos Telemar para o SAP_v0.2.doc
+UC_ARB_19376_1 Efetuar carga de produtos Telemar associados ao Oi Conta Total_v0.2.doc
+UC_ARB_19376_2 - Efetuar carga de chamadas intrabundle Telemar realizadas no Oi Conta Total_v0.2.doc
+UC_ARB_19376_2 Efetuar carga de chamadas intrabundle Telemar realizadas no Oi Conta Total_v0.1.doc
+UC_ARB_19376_3 Extrair dados cont beis para produtos convergentes Telemar_v0.1.doc
+UC_ARB_19376_3 Extrair dados cont beis para produtos convergentes Telemar_v0.3.doc
+UC_ARB_19376_4 Formatador de arquivos de produtos Telemar para o SAP_v0.1.doc
+UC_ARB_19376_5 Atualizar clientes Oi Conta Total_v0.1.doc
+UC_ARB_19376_7 Emissão de relatório gerencial de produtos Telemar associados ao Oi Conta Total_v0.2.doc
+UC_ARB_19411_01_Efetuar Parcelamento de D¡vida_v0.2.doc
+UC_ARB_24492_ 68 - Aprovisionar Pacotes de Descontos em Reais.doc
+UC_ARB_24492_49 - Manter Cadastro de Cliente Paggo.doc
+UC_ARB_29779_01 - Extrair Receitas a Apropriar.doc
+UC_ARB_29779_01 _ Extrair Receitas a Apropriar_v1.0.doc
+UC_ARB_29779_01 – Extrair Receitas a Apropriar_v0.3.doc
+UC_ARB_29779_02 Efetuar seleção de clientes Oi Conta Total para o receitas a apropriar_v0.1.doc
+UC_ARB_31270_16 - Aprovisionar Componente Franquia 10 GB - plano Oi Velox Plug.doc
+UC_ARB_31270_17 - Aprovisionar Componente Franquia 0 GB - plano Oi Velox Plug.doc
+UC_ARB_31270_18 - Aprovisionar Componente Franquia ilimitada - plano Oi Velox Plug.doc
+UC_ARB_31270_19 - Aprovisionar Componente Franquia 10 GB - Opção dados 3G.doc
+UC_ARB_31270_20 - Aprovisionar Componente Franquia 0 GB - Opção dados 3G.doc
+UC_ARB_31270_21 - Aprovisionar Componente Franquia ilimitada - Opção dados 3G.doc
+UC_ARB_31270_3 - Aprovisionar Pacote Desconto em assinatura 3G 10 Gb 50% - 3 meses.doc
+UC_ARB_31270_4 - Aprovisionar Pacote Desconto em assinatura 3G 10 Gb 50% - 6 meses.doc
+UC_ARB_31497_1 - Aprovisionar Componente Franquia 100 MB Colaborador – Opção de Dados 3G.doc
+UC_ARB_31497_2 - Aprovisionar Componente Franquia ilimitada Colaborador Executivo – Opção de Dados 3G.doc
+UC_ARB_31497_3 - Aprovisionar Componente Assinatura Colaborador – Opção Dados 3G.doc
+UC_ARB_31497_4 - Aprovisionar Componente Guia de Uso 2G – 3G – Plano Colaborador.doc
+UC_ARB_31497_5 - Aprovisionar Componente Guia de Uso 3G – Plano Colaborador.doc
+UC_ARB_31497_6 - Aprovisionar Componente Guia de Uso 2G – 3G – Plano Colaborador Executivo.doc
+UC_ARB_31497_7 - Aprovisionar Componente Guia de Uso 3G – Plano Colaborador Executivo.doc
+UC_ARB_31497_8 - Aprovisionar Pacote Oi Colaborador.doc
+UC_ARB_31781_1 - Limpeza de Pagamento em Duplicidade de Faturas de Clientes Oi emitidas pela Paggo.doc
+UC_ARB_31968_01 - Aprovisionar pacote Recarga Mensal Oi Cartão.doc
+UC_ARB_31968_01 - Permitir o recebimento dos arquivos de terceiros.doc
+UC_ARB_31968_01_Bloquear NRC_v0.1.doc
+UC_ARB_31968_02 - Aprovisionar componente Recarga Mensal Oi Cartão.doc
+UC_ARB_31968_02 - Permitir o armazenamento do movimento criticado no aprovisionamento.doc
+UC_ARB_31968_03 - Aprovisionar Componente de Recarga Autom tica de R$ 1,00.doc
+UC_ARB_31968_03 - Permitir a identificação única do registro.doc
+UC_ARB_31968_04 - Aprovisionar Componente de Recarga Autom tica de R$ 5,00.doc
+UC_ARB_31968_04 - Permitir cobran‡a do servi‡o de terceiro.doc
+UC_ARB_31968_05 - Aprovisionar Componente de Recarga Autom tica de R$ 10,00.doc
+UC_ARB_31968_06 - Aprovisionar Componente de Recarga Autom tica de R$ 15,00.doc
+UC_ARB_31968_07 - Aprovisionar Componente de Recarga Autom tica de R$ 20,00.doc
+UC_ARB_31968_08 - Aprovisionar Componente de Recarga Autom tica de R$ 25,00.doc
+UC_ARB_31968_09 - Aprovisionar Componente de Recarga Autom tica de R$ 30,00.doc
+UC_ARB_31968_10 - Aprovisionar Componente de Taxa de Adesão de R$9,90 para Recarga Automática.doc
+UC_ARB_31968_11 - Aprovisionar Componente de Taxa de Adesão de R$29,90 para Recarga Automática.doc
+UC_ARB_31968_12 - Selecionar Clientes Eleg¡veis … Recarga Autom tica Mensal.doc
+UC_ARB_31968_13 - Gerar Arquivos para Controle de Arquivos de CDRs.doc
+UC_ARB_31968_13 - Realizar Cobran‡a da Recarga Autom tica.doc
+UC_ARB_31968_130 - Aprovisionar Pacote Oi Fixo Controle 80 – PA124.doc
+UC_ARB_31968_131 - Aprovisionar Pacote Oi Fixo Controle 120 – PA124.doc
+UC_ARB_31968_132 - Aprovisionar Pacote Oi Fixo Controle 200 – PA124.doc
+UC_ARB_31968_133 - Aprovisionar Pacote Oi Fixo Controle 330 – PA124.doc
+UC_ARB_31968_134 - Aprovisionar Pacote Oi Fixo Controle 400 – PA124.doc
+UC_ARB_31968_135 - Aprovisionar Pacote Oi Fixo Controle 660 – PA124 .doc
+UC_ARB_31968_14 - Aprovisionar pacote Plano Bloqueio Tempor rio Gratuito.doc
+UC_ARB_31968_250 - Validar pagamento via PSB ap¢s 72 hs.doc
+UC_ARB_32164_01 - Extrair Dados para Proforma_v1.0.doc
+UC_ARB_32321_1 - Limpar Bases de Tarifação.doc
+UC_ARB_32428_01 – Apropriar dados contábeis relativos aos usos de co-billing extra-bundle_v1.0.doc
+UC_ARB_32898_1 - Aprovisionar Componente Franquia 30 MB – Opção de Dados 3G.doc
+UC_ARB_32898_10 - Aprovisionar Componente Assinatura Oi Velox Plug Iniciante.doc
+UC_ARB_32898_11 - Aprovisionar Componente Assinatura Oi Velox Plug Esp. Iniciante.doc
+UC_ARB_32898_12 - Aprovisionar Componente Assinatura Oi Velox Plug Intermedi rio.doc
+UC_ARB_32898_13 - Aprovisionar Componente Assinatura Oi Velox Plug Esp. Intermedi rio.doc
+UC_ARB_32898_14 - Aprovisionar Componente Assinatura Oi Velox Plug Top.doc
+UC_ARB_32898_15 - Aprovisionar Componente Assinatura Oi Velox Plug Esp. Top.doc
+UC_ARB_32898_16 - Aprovisionar Componente Guia de Uso 2G – 3G – Plano OCT Plug.doc
+UC_ARB_32898_17 - Aprovisionar Componente Guia de Uso 3G – Plano OCT Plug.doc
+UC_ARB_32898_18 - Aprovisionar Componente Franquia 2GB – Plano OCT Plug.doc
+UC_ARB_32898_19 - Aprovisionar Componente Franquia 10GB – Plano OCT Plug.doc
+UC_ARB_32898_2 - Aprovisionar Componente Franquia 200 MB – Opção de Dados 3G.doc
+UC_ARB_32898_20 - Aprovisionar Componente Franquia 20GB – Plano OCT Plug.doc
+UC_ARB_32898_3 - Aprovisionar Componente Franquia 2 GB – Opção de Dados 3G.doc
+UC_ARB_32898_4 - Aprovisionar Componente Assinatura 30 MB – Opção Dados 3G.doc
+UC_ARB_32898_5 - Aprovisionar Componente Assinatura 200 MB – Opção Dados 3G.doc
+UC_ARB_32898_6 - Aprovisionar Componente Assinatura 2GB – Opção Dados 3G.doc
+UC_ARB_32898_7 - Aprovisionar Componente Franquia 2 GB – Plano Oi Velox Plug.doc
+UC_ARB_32898_8 - Aprovisionar Componente Franquia 5GB – Plano Oi Velox Plug.doc
+UC_ARB_32898_9 - Aprovisionar Componente Franquia 20GB – Plano Oi Velox Plug.doc
+UC_ARB_32912_3_Gerar Fatura_v3.4.doc
+UC_ARB_33028_01 - Possibilitar o envio de feedfiles de clientes com faturas em Braile para a Montreal.doc
+UC_ARB_33028_01 – Possibilitar o envio de feedfiles de clientes com faturas em Braile para a Montreal.doc
+UC_ARB_3446_1 - Ajustar item contestado.doc
+UC_ARB_3446_1 - Ajustar item contestado_v1.2.doc
+UC_ARB_35505_01 – Disponibilizar Itens de Faturas Pagas para Programa de Relacionamento_v1.0.doc
+UC_ARB_38990_1 Gerar Relat¢rio por Grupo de Faturamento_v1.0.doc
+UC_ARB_38990_2 Gerar Relat¢rio por C¢digo de Servi‡os_v1.0.doc
+UC_ARB_38990_3 Gerar Relat¢rio de Dep¢sito Judicial_v1.0.doc
+UC_ARB_38990_4 Gerar Relat¢rio 916 para Carga no Norma Fiscal_v1.0.doc
+UC_ARB_6820_1 _ Enviar instƒncias de servi‡o com plano Oi Controle para recarga na BL.doc
+UC_ARB_7816_01 _ Enviar dados contabilizados para interface SAP_BW_v0.8.doc
+UC_ARB_7816_01 – Enviar dados contabilizados para interface SAP_BW_v0.7.doc
+UC_ARB_7950_7 - Aprovisionar Componente.doc
+UC_ARB_7950_7 - Aprovisionar Componente_v2.0.doc
+UC_ARB_8081_1 - Gerar livros fiscais_v0.8.doc
+UC_ARB_8430_1_Gerar_Interface de 2a Via de Fatura para Xerox.doc
+UC_ARB_8706_1 - Aprovisionar pacote para Promoção Oi Conta Total 1 nível conta_v2.4.doc
+UC_ARB_8706_3 - Aprovisionar pacote para Promoção Oi Conta Total 3 nível conta_v2.3.doc
+UC_BALANCEAR_FATURA.doc
+UC_ENVIAR_FATURA_ATUALIZADA.doc
+UC_EXTRAIR_DADOS_A_FATURAR.doc
+UC_EXTRAIR_FATURA_SMP11.doc
+UC_GERAR_FATURA.doc
+UC_GERAR_INTERFACE_SOLICITACAO_BOLETO_2VIA_XEROX.doc
+UC_NOVAS_FATURAS.doc
+UC_TKT_14367_1 - Criar Grupos de Tarifas.doc
+UC_TKT_14367_12 - Consultar Tarifas.doc
+UC_TKT_14367_8 – Gerar Master de Alteração de Tarifas.doc
+UC_TKT_32321_1 – Alterar Modalidade de Contrato.doc
+
+

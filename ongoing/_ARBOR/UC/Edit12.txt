@@ -1,0 +1,3 @@
+Nome Plano;Plano/Opcao de dados;Prorata Descricao;Meio de Acesso;Mes Faturamento;Corte;Ativacao Pacote 3G;Franquia Concedida KB;Consumo Intra Bundle Kb ;Consumo Extra Bundle Kb;Valor Extra Bundle R$
+Assinatura: Oi Dados 3G Colaborador 1GB;Componente Franquia 1GB Colaborador - Opção Dados 3G;Período cheio;21989029222;2013-10;3;15/08/2012;1048576;832005;1423;0.00
+Assinatura: Oi Dados 3G Colaborador 1GB;Componente Franquia 1GB Colaborador - Opção Dados 3G;Período cheio;21989027599;2013-10;23;14/08/2012;1048576;1048576;223992;22.74
