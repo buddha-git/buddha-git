@@ -1,0 +1,436 @@
+<?xml version='1.0' encoding='UTF-8'?><wsdl:definitions name="PreventionModuleService" targetNamespace="http://preventionmodule.webservices.siaf.abrt.hp.com.br/" xmlns:ns1="http://schemas.xmlsoap.org/soap/http" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://preventionmodule.webservices.siaf.abrt.hp.com.br/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <wsdl:types>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="unqualified" targetNamespace="http://preventionmodule.webservices.siaf.abrt.hp.com.br/" xmlns:tns="http://preventionmodule.webservices.siaf.abrt.hp.com.br/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="SaleRecommendationIn" type="tns:saleRecommendationIn"/>
+  <xs:element name="SaleRecommendationOut" type="tns:saleRecommendationOut"/>
+  <xs:complexType name="saleRecommendationOut">
+    <xs:complexContent>
+      <xs:extension base="tns:genericOut">
+        <xs:sequence>
+          <xs:element name="cpfCnpj" nillable="true" type="xs:string"/>
+          <xs:element name="pontuacao" nillable="true" type="xs:string"/>
+          <xs:element name="recomendacao" nillable="true" type="xs:string"/>
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:complexType name="genericOut">
+    <xs:sequence>
+      <xs:element name="codRetorno" type="xs:string"/>
+      <xs:element name="dscRetorno" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="onlineRecommendationLog">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="address" type="xs:string"/>
+      <xs:element minOccurs="0" name="addressNumber" type="xs:string"/>
+      <xs:element minOccurs="0" name="birthCreation" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="city" type="xs:string"/>
+      <xs:element minOccurs="0" name="company" type="tns:company"/>
+      <xs:element minOccurs="0" name="companyNumber" type="xs:int"/>
+      <xs:element minOccurs="0" name="complement" type="xs:string"/>
+      <xs:element minOccurs="0" name="contactPhone" type="xs:string"/>
+      <xs:element minOccurs="0" name="cpfCnpj" type="xs:string"/>
+      <xs:element minOccurs="0" name="cpfCnpjPartner" type="xs:string"/>
+      <xs:element minOccurs="0" name="id" type="xs:string"/>
+      <xs:element minOccurs="0" name="isCorporate" type="xs:string"/>
+      <xs:element minOccurs="0" name="motherName" type="xs:string"/>
+      <xs:element minOccurs="0" name="name" type="xs:string"/>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="onlineRecCompositeScores" nillable="true" type="tns:onlineRecCompositeScore"/>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="onlineRecSimpleScores" nillable="true" type="tns:onlineRecSimpleScore"/>
+      <xs:element minOccurs="0" name="onlineRecommentadionID" type="xs:long"/>
+      <xs:element minOccurs="0" name="pdv" type="xs:string"/>
+      <xs:element minOccurs="0" name="proposal" type="tns:proposal"/>
+      <xs:element minOccurs="0" name="proposalNumber" type="xs:string"/>
+      <xs:element minOccurs="0" name="province" type="xs:string"/>
+      <xs:element minOccurs="0" name="recommendation" type="xs:int"/>
+      <xs:element minOccurs="0" name="responseTime" type="xs:long"/>
+      <xs:element minOccurs="0" name="score" type="xs:int"/>
+      <xs:element minOccurs="0" name="state" type="xs:string"/>
+      <xs:element minOccurs="0" name="timestamp" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="zipCode" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="company">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="cemiCode" type="xs:string"/>
+      <xs:element minOccurs="0" name="companyId" type="xs:int"/>
+      <xs:element minOccurs="0" name="companyName" type="xs:string"/>
+      <xs:element minOccurs="0" name="companyNumber" type="xs:int"/>
+      <xs:element minOccurs="0" name="managerCPF" type="xs:string"/>
+      <xs:element minOccurs="0" name="managerContactPhone" type="xs:string"/>
+      <xs:element minOccurs="0" name="managerEmailAddress" type="xs:string"/>
+      <xs:element minOccurs="0" name="managerName" type="xs:string"/>
+      <xs:element minOccurs="0" name="managerRG" type="xs:string"/>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="recLimits" nillable="true" type="tns:recLimit"/>
+      <xs:element minOccurs="0" name="sateliteIpAddress" type="xs:string"/>
+      <xs:element minOccurs="0" name="sateliteLogin" type="xs:string"/>
+      <xs:element minOccurs="0" name="satelitePassword" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="recLimit">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="companyRecLimit" type="tns:company"/>
+      <xs:element minOccurs="0" name="dtCriacao" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="id" type="xs:int"/>
+      <xs:element minOccurs="0" name="qtdLimit" type="xs:int"/>
+      <xs:element minOccurs="0" name="qtdMaxRecDia" type="xs:int"/>
+      <xs:element minOccurs="0" name="qtdMaxRecHora" type="xs:int"/>
+      <xs:element minOccurs="0" name="qtdNewLimit" type="xs:int"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="onlineRecCompositeScore">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="onlineRecCompositeScorePK" type="tns:onlineRecCompositeScorePK"/>
+      <xs:element minOccurs="0" name="score" type="xs:int"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="onlineRecCompositeScorePK">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="compositeScoringRuleHist" type="tns:compositeScoringRuleHist"/>
+      <xs:element minOccurs="0" name="onlineRecommendationLog" type="tns:onlineRecommendationLog"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="compositeScoringRuleHist">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="alarmGen" type="xs:string"/>
+      <xs:element minOccurs="0" name="company" type="tns:company"/>
+      <xs:element minOccurs="0" name="compositeScoringHistId" type="xs:long"/>
+      <xs:element minOccurs="0" name="compositeScoringRule" type="tns:compositeScoringRule"/>
+      <xs:element minOccurs="0" name="corporationScoreAdditional" type="xs:long"/>
+      <xs:element minOccurs="0" name="corporationScoreMultiplier" type="xs:long"/>
+      <xs:element minOccurs="0" name="description" type="xs:string"/>
+      <xs:element minOccurs="0" name="personalScoreAdditional" type="xs:long"/>
+      <xs:element minOccurs="0" name="personalScoreMultiplier" type="xs:long"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="compositeScoringRule">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="company" type="tns:company"/>
+      <xs:element minOccurs="0" name="corporationScoreAdditional" type="xs:int"/>
+      <xs:element minOccurs="0" name="corporationScoreMultiplier" type="xs:int"/>
+      <xs:element minOccurs="0" name="description" type="xs:string"/>
+      <xs:element minOccurs="0" name="id" type="xs:int"/>
+      <xs:element minOccurs="0" name="isAlarmGenerator" type="xs:int"/>
+      <xs:element minOccurs="0" name="isPrevention" type="xs:boolean"/>
+      <xs:element minOccurs="0" name="personalScoreAdditional" type="xs:int"/>
+      <xs:element minOccurs="0" name="personalScoreMultiplier" type="xs:int"/>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="simpleScoringRules" nillable="true" type="tns:simpleScoringRule"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="simpleScoringRule">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="company" type="tns:company"/>
+      <xs:element minOccurs="0" name="corporationScore" type="xs:int"/>
+      <xs:element minOccurs="0" name="description" type="xs:string"/>
+      <xs:element minOccurs="0" name="entityField" type="tns:entityField"/>
+      <xs:element minOccurs="0" name="evidence" type="tns:evidenceRule"/>
+      <xs:element minOccurs="0" name="expectedText" type="xs:string"/>
+      <xs:element minOccurs="0" name="falseCorporationScore" type="xs:int"/>
+      <xs:element minOccurs="0" name="falsePersonalScore" type="xs:int"/>
+      <xs:element minOccurs="0" name="finalConditionalOperator" type="xs:string"/>
+      <xs:element minOccurs="0" name="finalCount" type="xs:long"/>
+      <xs:element minOccurs="0" name="id" type="xs:int"/>
+      <xs:element minOccurs="0" name="initialConditionalOperator" type="xs:string"/>
+      <xs:element minOccurs="0" name="initialCount" type="xs:long"/>
+      <xs:element minOccurs="0" name="isAlarmGenerator" type="xs:int"/>
+      <xs:element minOccurs="0" name="isDetection" type="xs:boolean"/>
+      <xs:element minOccurs="0" name="isPrevention" type="xs:boolean"/>
+      <xs:element minOccurs="0" name="personalScore" type="xs:int"/>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="simpleScoringRuleHists" nillable="true" type="tns:simpleScoringRuleHist"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="entityField">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="displayOrder" type="xs:int"/>
+      <xs:element minOccurs="0" name="entityDefinition" type="tns:entityDefinition"/>
+      <xs:element minOccurs="0" name="fieldDbDefinition" type="tns:fieldDbDefinition"/>
+      <xs:element minOccurs="0" name="fieldDef" type="tns:fieldDefinition"/>
+      <xs:element minOccurs="0" name="id" type="xs:int"/>
+      <xs:element minOccurs="0" name="isBlackListable" type="xs:boolean"/>
+      <xs:element minOccurs="0" name="isCountable" type="xs:boolean"/>
+      <xs:element minOccurs="0" name="isDirectScorable" type="xs:boolean"/>
+      <xs:element minOccurs="0" name="isDisplayable" type="xs:boolean"/>
+      <xs:element minOccurs="0" name="isFilterable" type="xs:boolean"/>
+      <xs:element minOccurs="0" name="isFingerPrint" type="xs:boolean"/>
+      <xs:element minOccurs="0" name="isGroupCountable" type="xs:boolean"/>
+      <xs:element minOccurs="0" name="isInterfaceable" type="xs:boolean"/>
+      <xs:element minOccurs="0" name="isMandatory" type="xs:boolean"/>
+      <xs:element minOccurs="0" name="isSearchable" type="xs:boolean"/>
+      <xs:element minOccurs="0" name="isUnique" type="xs:boolean"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="entityDefinition">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="entityDbDef" type="tns:entityDbDefinition"/>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="entityFields" nillable="true" type="tns:entityField"/>
+      <xs:element minOccurs="0" name="filter" type="xs:string"/>
+      <xs:element minOccurs="0" name="id" type="xs:int"/>
+      <xs:element minOccurs="0" name="isBlackListtable" type="xs:boolean"/>
+      <xs:element minOccurs="0" name="isBroadCastable" type="xs:boolean"/>
+      <xs:element minOccurs="0" name="isCountable" type="xs:boolean"/>
+      <xs:element minOccurs="0" name="isExportable" type="xs:boolean"/>
+      <xs:element minOccurs="0" name="name" type="xs:string"/>
+      <xs:element minOccurs="0" name="perEntityField" type="xs:int"/>
+      <xs:element minOccurs="0" name="pkEntityField" type="xs:int"/>
+      <xs:element minOccurs="0" name="type" type="xs:int"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="entityDbDefinition">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="id" type="xs:int"/>
+      <xs:element minOccurs="0" name="name" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="fieldDbDefinition">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="entityDbDefinition" type="tns:entityDbDefinition"/>
+      <xs:element minOccurs="0" name="fieldDbDefinitionId" type="xs:int"/>
+      <xs:element minOccurs="0" name="fieldSize" type="xs:int"/>
+      <xs:element minOccurs="0" name="isIndex" type="xs:boolean"/>
+      <xs:element minOccurs="0" name="name" type="xs:string"/>
+      <xs:element minOccurs="0" name="type" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="fieldDefinition">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="entityFields" nillable="true" type="tns:entityField"/>
+      <xs:element minOccurs="0" name="fieldSize" type="xs:int"/>
+      <xs:element minOccurs="0" name="id" type="xs:int"/>
+      <xs:element minOccurs="0" name="isEvidenceKey" type="xs:boolean"/>
+      <xs:element minOccurs="0" name="name" type="xs:string"/>
+      <xs:element minOccurs="0" name="token" type="xs:string"/>
+      <xs:element minOccurs="0" name="type" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="evidenceRule">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="blackListTypeCode" type="xs:int"/>
+      <xs:element minOccurs="0" name="countEntityFieldId" type="xs:int"/>
+      <xs:element minOccurs="0" name="countPeriod" type="xs:int"/>
+      <xs:element minOccurs="0" name="description" type="xs:string"/>
+      <xs:element minOccurs="0" name="entityField" type="tns:entityField"/>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="evidenceFilters" nillable="true" type="tns:evidenceFilter"/>
+      <xs:element minOccurs="0" name="evidenceId" type="xs:int"/>
+      <xs:element minOccurs="0" name="evidenceType" type="tns:evidenceType"/>
+      <xs:element minOccurs="0" name="groupEntityFieldId" type="xs:int"/>
+      <xs:element minOccurs="0" name="isExportable" type="xs:boolean"/>
+      <xs:element minOccurs="0" name="isOnlyFraud" type="xs:boolean"/>
+      <xs:element minOccurs="0" name="miniumCount" type="xs:int"/>
+      <xs:element minOccurs="0" name="preDefinedTypeCode" type="xs:int"/>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="simpleScoringRules" nillable="true" type="tns:simpleScoringRule"/>
+      <xs:element minOccurs="0" name="timeStamp" type="xs:dateTime"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="evidenceFilter">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="conditionOperator" type="xs:string"/>
+      <xs:element minOccurs="0" name="entityField" type="tns:entityField"/>
+      <xs:element minOccurs="0" name="evidence" type="tns:evidenceRule"/>
+      <xs:element minOccurs="0" name="fieldCount" type="xs:string"/>
+      <xs:element minOccurs="0" name="id" type="xs:int"/>
+      <xs:element minOccurs="0" name="logicalOperator" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="evidenceType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="description" type="xs:string"/>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="evidenceRules" nillable="true" type="tns:evidenceRule"/>
+      <xs:element minOccurs="0" name="evidenceTypeCode" type="xs:int"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="simpleScoringRuleHist">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="alarmGen" type="xs:string"/>
+      <xs:element minOccurs="0" name="company" type="tns:company"/>
+      <xs:element minOccurs="0" name="corporationScore" type="xs:long"/>
+      <xs:element minOccurs="0" name="description" type="xs:string"/>
+      <xs:element minOccurs="0" name="detection" type="xs:boolean"/>
+      <xs:element minOccurs="0" name="entityField" type="tns:entityField"/>
+      <xs:element minOccurs="0" name="evidenceRule" type="tns:evidenceRule"/>
+      <xs:element minOccurs="0" name="expectedText" type="xs:string"/>
+      <xs:element minOccurs="0" name="falseCorporationScore" type="xs:long"/>
+      <xs:element minOccurs="0" name="falsePersonalScore" type="xs:long"/>
+      <xs:element minOccurs="0" name="finalConditionalOperator" type="xs:string"/>
+      <xs:element minOccurs="0" name="finalCount" type="xs:long"/>
+      <xs:element minOccurs="0" name="initialConditionalOperator" type="xs:string"/>
+      <xs:element minOccurs="0" name="initialCount" type="xs:long"/>
+      <xs:element minOccurs="0" name="personalScore" type="xs:long"/>
+      <xs:element minOccurs="0" name="prevention" type="xs:boolean"/>
+      <xs:element name="simpleScoringHistId" type="xs:long"/>
+      <xs:element minOccurs="0" name="simpleScoringRule" type="tns:simpleScoringRule"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="onlineRecSimpleScore">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="onlineRecSimpleScorePK" type="tns:onlineRecSimpleScorePK"/>
+      <xs:element minOccurs="0" name="score" type="xs:int"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="onlineRecSimpleScorePK">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="onlineRecommendationLog" type="tns:onlineRecommendationLog"/>
+      <xs:element minOccurs="0" name="simpleScoringRuleHist" type="tns:simpleScoringRuleHist"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="proposal">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="address" type="xs:string"/>
+      <xs:element minOccurs="0" name="addressNumber" type="xs:string"/>
+      <xs:element minOccurs="0" name="birthCreation" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="city" type="xs:string"/>
+      <xs:element minOccurs="0" name="company" type="tns:company"/>
+      <xs:element minOccurs="0" name="companyNumber" type="xs:int"/>
+      <xs:element minOccurs="0" name="complement" type="xs:string"/>
+      <xs:element minOccurs="0" name="contactPhone" type="xs:string"/>
+      <xs:element minOccurs="0" name="cpfCnpj" type="xs:string"/>
+      <xs:element minOccurs="0" name="cpfCnpjPartner" type="xs:string"/>
+      <xs:element minOccurs="0" name="creationDate" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="entityDefId" type="xs:int"/>
+      <xs:element minOccurs="0" name="id" type="xs:string"/>
+      <xs:element minOccurs="0" name="motherName" type="xs:string"/>
+      <xs:element minOccurs="0" name="name" type="xs:string"/>
+      <xs:element minOccurs="0" name="onlineRecommendationLog" type="tns:onlineRecommendationLog"/>
+      <xs:element minOccurs="0" name="pdv" type="xs:string"/>
+      <xs:element minOccurs="0" name="proposalID" type="xs:long"/>
+      <xs:element minOccurs="0" name="proposalNumber" type="xs:string"/>
+      <xs:element minOccurs="0" name="province" type="xs:string"/>
+      <xs:element minOccurs="0" name="recommendation" type="xs:int"/>
+      <xs:element minOccurs="0" name="score" type="xs:int"/>
+      <xs:element minOccurs="0" name="state" type="xs:string"/>
+      <xs:element minOccurs="0" name="timestamp" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="zipCode" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="saleRecommendationIn">
+    <xs:sequence>
+      <xs:element name="cpfCnpj" type="xs:string"/>
+      <xs:element name="codigoOperadora" type="xs:string"/>
+      <xs:element name="nome" nillable="true" type="xs:string"/>
+      <xs:element name="endereco" nillable="true" type="xs:string"/>
+      <xs:element name="numero" nillable="true" type="xs:string"/>
+      <xs:element name="complemento" nillable="true" type="xs:string"/>
+      <xs:element name="bairro" nillable="true" type="xs:string"/>
+      <xs:element name="cidade" nillable="true" type="xs:string"/>
+      <xs:element name="uf" nillable="true" type="xs:string"/>
+      <xs:element name="cep" nillable="true" type="xs:string"/>
+      <xs:element name="nomeMae" nillable="true" type="xs:string"/>
+      <xs:element name="telContato" nillable="true" type="xs:string"/>
+      <xs:element name="rg" nillable="true" type="xs:string"/>
+      <xs:element name="datNascimento" nillable="true" type="xs:string"/>
+      <xs:element name="pdv" nillable="true" type="xs:string"/>
+      <xs:element name="proposta" nillable="true" type="xs:string"/>
+      <xs:element name="cpfCnpjSocio" nillable="true" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="generateResponseError" nillable="true" type="xs:string"/>
+  <xs:element name="generateResponseErrorResponse" nillable="true" type="tns:saleRecommendationOut"/>
+  <xs:element name="generateResponseSucess" nillable="true" type="tns:onlineRecommendationLog"/>
+  <xs:element name="generateResponseSucessResponse" nillable="true" type="tns:saleRecommendationOut"/>
+  <xs:element name="calculateRecommendation" nillable="true" type="tns:onlineRecommendationLog"/>
+  <xs:element name="calculateRecommendationResponse" nillable="true" type="tns:onlineRecommendationLog"/>
+</xs:schema>
+  </wsdl:types>
+  <wsdl:message name="calculateRecommendation">
+    <wsdl:part element="tns:calculateRecommendation" name="calculateRecommendation">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="calculateRecommendationResponse">
+    <wsdl:part element="tns:calculateRecommendationResponse" name="calculateRecommendationResponse">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="generateResponseSucessResponse">
+    <wsdl:part element="tns:generateResponseSucessResponse" name="generateResponseSucessResponse">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="generateResponseSucess">
+    <wsdl:part element="tns:generateResponseSucess" name="generateResponseSucess">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="generateResponseError">
+    <wsdl:part element="tns:generateResponseError" name="generateResponseError">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getSaleRecommendation">
+    <wsdl:part element="tns:SaleRecommendationIn" name="SaleRecommendationIn">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="getSaleRecommendationResponse">
+    <wsdl:part element="tns:SaleRecommendationOut" name="SaleRecommendationOut">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="generateResponseErrorResponse">
+    <wsdl:part element="tns:generateResponseErrorResponse" name="generateResponseErrorResponse">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:portType name="preventionModule">
+    <wsdl:operation name="generateResponseError">
+      <wsdl:input message="tns:generateResponseError" name="generateResponseError">
+    </wsdl:input>
+      <wsdl:output message="tns:generateResponseErrorResponse" name="generateResponseErrorResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="generateResponseSucess">
+      <wsdl:input message="tns:generateResponseSucess" name="generateResponseSucess">
+    </wsdl:input>
+      <wsdl:output message="tns:generateResponseSucessResponse" name="generateResponseSucessResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getSaleRecommendation">
+      <wsdl:input message="tns:getSaleRecommendation" name="getSaleRecommendation">
+    </wsdl:input>
+      <wsdl:output message="tns:getSaleRecommendationResponse" name="getSaleRecommendationResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="calculateRecommendation">
+      <wsdl:input message="tns:calculateRecommendation" name="calculateRecommendation">
+    </wsdl:input>
+      <wsdl:output message="tns:calculateRecommendationResponse" name="calculateRecommendationResponse">
+    </wsdl:output>
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="PreventionModuleServiceSoapBinding" type="tns:preventionModule">
+    <soap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="generateResponseError">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="generateResponseError">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="generateResponseErrorResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="generateResponseSucess">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="generateResponseSucess">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="generateResponseSucessResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getSaleRecommendation">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="getSaleRecommendation">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="getSaleRecommendationResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="calculateRecommendation">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="calculateRecommendation">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="calculateRecommendationResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="PreventionModuleService">
+    <wsdl:port binding="tns:PreventionModuleServiceSoapBinding" name="preventionModulePort">
+      <soap:address location="http://10.59.23.188:8080/SIAFWS/PreventionModule"/>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
