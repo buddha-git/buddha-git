@@ -1,0 +1,21 @@
+Cadeia ja cadastrada no ARS automatico, antes de abrir manual verificar se ja nao houve abertura automatica.
+
+Quando codigo de erro do job for = 4, abrir ARS Severidade 4 para o grupo OP_BIGDATATRIBUTARIO_N2_OI utilizando a categorizacao abaixo:
+
+    Sistema Afetado = BDATA-TRIB
+    Categoria Abertura = APLICACOES
+    Tipo de Abertura = BIG DATA
+    Item Abertura = ROTINA BATCH
+    Sub-Item Abertura = HDP_RECDLAKE_PREPAGO
+    Complemento = NAO SE APLICA
+    Sub-Complemento de Abertura: MINOR
+
+Quando código de erro do job for = 2, abrir ARS Severidade 2 para o grupo OP_BIGDATATRIBUTARIO_N2_OI utilizando a categorizacao abaixo:
+
+    Sistema Afetado = BDATA-TRIB
+    Categoria Abertura = APLICACOES
+    Tipo de Abertura = BIG DATA
+    Item Abertura = ROTINA BATCH
+    Sub-Item Abertura = HDP_RECDLAKE_PREPAGO
+    Complemento = NAO SE APLICA
+    Sub-Complemento de Abertura: CRITICAL
